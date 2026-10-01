@@ -1,0 +1,383 @@
+transaction_time,merch,cat_id,amount,name_1,name_2,gender,street,one_city,us_state,post_code,lat,lon,population_city,jobs,merchant_lat,merchant_lon
+2019-09-14 02:46,"fraud_Stokes, Christiansen and Sipes",grocery_net,25.79,Michael,Rodriguez,M,172 Paula Inlet Apt. 650,Cross Plains,TX,76443,32.1482,-99.1872,1897,Chief Operating Officer,31.772057,-99.103183
+2019-07-25 20:30,fraud_Thompson-Gleason,health_fitness,87.8,Curtis,Young,M,4319 Watson Shoals Suite 658,Falconer,NY,14733,42.1239,-79.1895,3833,Metallurgist,42.635312,-78.334559
+2020-01-05 17:27,fraud_Friesen Inc,shopping_pos,10.98,Brandy,Quinn,F,9734 Beard Fields Suite 885,Altair,TX,77412,29.6047,-96.5249,106,"Editor, film/video",29.363782,-95.624994
+2019-07-21 00:14,"fraud_Jenkins, Hauck and Friesen",gas_transport,71.97,Ashley,Mcdonald,F,3160 Tina Estates Suite 234,Marietta,SC,29661,35.0296,-82.5136,5648,Museum/gallery exhibitions officer,35.142659,-82.489028
+2019-03-13 00:45,"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,210.5,Kimberly,Rice,F,63991 Destiny Rue Apt. 651,Tyler,TX,75703,32.2768,-95.3031,144160,Sports development officer,31.833016,-94.746542
+2019-01-22 18:29,fraud_Renner Ltd,home,76.08,Michelle,Beck,F,2887 Olson Road Suite 439,Minneapolis,MN,55428,45.0632,-93.3811,1022298,Analytical chemist,45.065055,-94.245252
+2019-03-24 10:35,"fraud_Swift, Bradtke and Marquardt",grocery_net,34.74,Karen,Warren,F,4900 Curtis Gardens Suite 952,Hahira,GA,31632,30.9416,-83.3574,10295,"Teacher, special educational needs",31.112746,-83.999846
+2019-01-27 18:03,"fraud_Langworth, Boehm and Gulgowski",shopping_net,1.02,Lauren,Torres,F,03030 White Lakes,Grandview,TX,76050,32.2779,-97.2351,5875,"Radiographer, therapeutic",31.588018,-96.642319
+2019-05-30 09:42,fraud_Dickinson-Rempel,misc_pos,4.61,Richard,Waters,M,7683 Natasha Way Apt. 945,Waukesha,WI,53186,42.9993,-88.2196,95015,"Therapist, occupational",42.484946,-89.058926
+2019-09-22 01:15,fraud_Sporer Inc,gas_transport,67.52,Edward,Tapia,M,354 Gutierrez Gateway,Comfrey,MN,56019,44.1111,-94.9134,914,Health and safety adviser,43.742883,-94.634388
+2019-03-19 19:38,fraud_Cormier LLC,health_fitness,7.17,Amanda,Vance,F,14601 Downs Skyway Apt. 440,Sterling City,TX,76951,31.8351,-101.0017,1143,"Scientist, biomedical",32.363546,-101.182694
+2020-02-23 10:14,"fraud_Lehner, Reichert and Mills",misc_pos,107.49,Gregory,Wood,M,622 Robert Summit,Akron,OH,44307,41.0695,-81.5488,272134,Call centre manager,42.064602,-82.491119
+2019-08-22 00:17,fraud_Trantow PLC,grocery_net,50.78,John,Miller,M,153 Mccullough Springs Apt. 857,Lamberton,MN,56152,44.2378,-95.2739,1507,Land/geomatics surveyor,44.805793,-95.968697
+2019-01-14 05:35,"fraud_Kutch, Hermiston and Farrell",gas_transport,83.45,Mary,Lewis,F,118 Justin Extension,Bay Minette,AL,36507,30.8635,-87.7644,19090,Science writer,31.640387,-86.978489
+2019-07-15 20:27,fraud_Jewess LLC,shopping_pos,8.09,Julia,Bell,F,576 House Crossroad,West Sayville,NY,11796,40.732,-73.1,4056,Film/video editor,40.365357,-73.428607
+2019-03-24 12:47,fraud_Kertzmann LLC,health_fitness,115.79,David,Everett,M,4138 David Fall,Morrisdale,PA,16858,41.0001,-78.2357,3688,Advice worker,41.415794,-78.010461
+2019-10-26 19:24,"fraud_Cole, Hills and Jewess",home,105.58,Monica,West,F,22084 Smith Roads Suite 776,Hurley,SD,57036,43.2893,-97.1904,811,Neurosurgeon,43.723629,-97.532502
+2019-11-06 10:48,"fraud_Streich, Dietrich and Barton",shopping_net,6.77,Denise,Barnett,F,23220 Eaton Harbors,Kirby,OH,43330,40.813,-83.4196,118,Private music teacher,39.973738,-83.896827
+2019-05-31 05:50,fraud_Harber Inc,gas_transport,71.06,Bryan,Torres,M,152 James Centers Apt. 768,Detroit,MI,48221,42.426,-83.15,673342,Retail manager,43.14418,-82.209046
+2019-08-28 22:07,fraud_Daugherty LLC,kids_pets,99.61,Margaret,Lam,F,6911 Nicholas Keys Apt. 237,Armagh,PA,15920,40.4603,-79.0097,922,Early years teacher,40.42857,-79.661148
+2019-12-21 17:25,"fraud_Hermiston, Russel and Price",food_dining,7.86,Stephanie,Hopkins,F,44089 Carrie Crossing Suite 954,Falls City,TX,78113,28.9814,-98.0156,2435,"Engineer, mining",28.053274,-98.13602
+2019-10-25 22:32,fraud_Roob-Okuneva,health_fitness,20.86,Joanna,Hudson,F,2924 Bobby Trafficway,Sebring,FL,33872,27.4703,-81.4872,50835,Environmental consultant,26.944859,-82.446001
+2019-08-13 18:21,fraud_Lynch-Wisozk,home,34.31,Sabrina,Nolan,F,312 Eric Expressway Apt. 014,Phenix City,AL,36869,32.4204,-85.0796,59744,Chemical engineer,32.901259,-84.825549
+2019-03-25 06:27,"fraud_Schultz, Simonis and Little",grocery_pos,27.19,Matthew,Lambert,M,7188 Melissa Crest Apt. 151,New Holstein,WI,53061,43.9446,-88.0911,5196,Child psychotherapist,44.179885,-87.56667
+2019-12-18 02:09,fraud_Huels-Nolan,gas_transport,68.87,Tracy,Conway,F,6778 Campos Field,Bonfield,IL,60913,41.1573,-88.0619,1617,Medical secretary,40.876978,-88.838474
+2019-07-31 01:49,fraud_Fisher-Schowalter,shopping_net,1.15,Felicia,Mckee,F,84079 Thomas Burgs,Tomales,CA,94971,38.2427,-122.9145,337,Occupational psychologist,38.409387,-122.75876
+2019-08-26 14:41,fraud_Pagac LLC,shopping_pos,4.32,David,Wolfe,M,81261 Garcia Underpass Suite 741,Southfield,MI,48034,42.4969,-83.2911,75830,"Engineer, automotive",42.887503,-83.061502
+2019-02-16 06:50,"fraud_Connelly, Reichert and Fritsch",gas_transport,68.68,Melissa,Meza,F,244 Abbott Parkway,Loxahatchee,FL,33470,26.7383,-80.276,26551,Paramedic,26.829571,-80.987144
+2019-12-09 00:48,fraud_Jacobi and Sons,shopping_pos,133.23,Christian,Roman,M,495 Fisher Throughway,Grand Junction,TN,38039,35.0659,-89.1534,1804,Clothing/textile technologist,34.395759,-89.713683
+2019-08-24 07:06,fraud_Bednar Group,misc_net,617.11,Kimberly,Rice,F,63991 Destiny Rue Apt. 651,Tyler,TX,75703,32.2768,-95.3031,144160,Sports development officer,31.550477,-95.119371
+2019-10-08 18:21,fraud_White and Sons,home,50.61,Erica,Briggs,F,3310 Davidson Spurs Apt. 107,Oolitic,IN,47451,38.8938,-86.5246,1228,Counsellor,38.557671,-86.551528
+2019-01-15 17:51,fraud_Leannon-Ward,food_dining,60.45,William,Thomas,M,39227 Mcpherson Shoals,Lahoma,OK,73754,36.385,-98.0727,1078,Podiatrist,36.876641,-97.742799
+2019-06-02 20:39,fraud_Grimes LLC,entertainment,144.52,Kenneth,Doyle,M,8614 Reed Glen,West Harrison,NY,10604,41.0592,-73.7395,11250,Lexicographer,40.261545,-73.610887
+2019-10-19 21:31,fraud_Botsford PLC,home,4.74,Christina,Eaton,F,3256 Brooks Field,Eldridge,AL,35554,33.9315,-87.6194,1186,Politician's assistant,33.685937,-87.139475
+2019-07-28 09:02,fraud_Pacocha-O'Reilly,grocery_pos,82.85,David,Rodriguez,M,821 Solis Points,Muskegon,MI,49440,43.2326,-86.2492,128715,Historic buildings inspector/conservation officer,43.05874,-86.620656
+2019-07-10 13:13,fraud_Frami Group,entertainment,76.15,Edward,Hensley,M,24318 Dixon Mills,Elk Rapids,MI,49629,44.8955,-85.4082,2223,Chief Financial Officer,45.552429,-86.158354
+2019-03-24 00:00,"fraud_Reichert, Huels and Hoppe",shopping_net,111.66,Joe,Howard,M,109 Brian Lights Apt. 504,Shippingport,PA,15077,40.6025,-80.3863,198,Secretary/administrator,40.339362,-79.723905
+2019-02-06 18:23,fraud_Schmidt-Larkin,home,95.65,Joseph,Nixon,M,86882 Desiree Camp Suite 047,Tyaskin,MD,21865,38.2833,-75.8465,470,Music tutor,37.93165,-75.712533
+2019-04-18 15:01,fraud_Bins-Tillman,entertainment,84.52,Xavier,Beltran,M,61107 Edwards Dam Apt. 463,Big Creek,KY,40914,37.1046,-83.5706,467,"Psychologist, forensic",36.376115,-84.112938
+2019-11-07 07:49,fraud_Wolf Inc,grocery_pos,99.35,Christopher,Rodgers,M,30587 Fox Shores Apt. 627,Fenelton,PA,16034,40.8555,-79.7372,2054,Communications engineer,40.777694,-80.285105
+2019-07-16 00:08,fraud_Bartoletti-Wunsch,gas_transport,32.71,Sarah,Bell,F,6963 Russell Causeway Suite 231,Galatia,IL,62935,37.8274,-88.6235,1943,"Restaurant manager, fast food",38.031922,-87.910333
+2019-05-15 03:13,fraud_Pacocha-O'Reilly,grocery_pos,216.07,Shelby,Mitchell,F,974 Cindy Stream,Brandon,VT,5733,43.8065,-73.0882,5895,"Scientist, marine",43.723374,-72.684438
+2019-06-15 18:43,fraud_Roob-Okuneva,health_fitness,17.97,Robert,Evans,M,01892 Patricia Vista Apt. 828,Sachse,TX,75048,32.9643,-96.6012,20328,Site engineer,33.0162,-95.888991
+2019-07-26 21:50,fraud_Howe Ltd,misc_pos,1.0,Michael,Fisher,M,401 Escobar Port,East Troy,WI,53120,42.8035,-88.4092,9679,"Engineer, production",42.440883,-88.918939
+2020-01-30 00:28,fraud_Berge LLC,gas_transport,56.22,Steven,Castaneda,M,46809 Toni Flat Suite 216,Lamy,NM,87540,35.4311,-105.9409,923,Public relations account executive,35.192497,-106.025625
+2019-04-05 06:53,fraud_Johns-Hoeger,entertainment,28.73,Gina,Gomez,F,72030 Shelton Crossing Apt. 742,Stirling,NJ,7980,40.6774,-74.4968,2307,Science writer,40.362594,-74.331172
+2019-04-21 07:34,"fraud_Ferry, Reichel and DuBuque",grocery_net,4.62,Micheal,Walters,M,15315 Vaughn Park Suite 356,Hovland,MN,55606,47.8342,-90.0476,272,Freight forwarder,47.280442,-89.547483
+2019-12-15 12:43,fraud_Friesen Ltd,health_fitness,78.78,Christopher,Horn,M,956 Sanchez Highway,Mallie,KY,41836,37.2692,-82.9161,798,Facilities manager,37.741199,-82.024854
+2019-07-11 11:08,fraud_Corwin-Collins,gas_transport,59.9,Kenneth,Robinson,M,269 Sanchez Rapids,Elizabeth,NJ,7208,40.6747,-74.2239,124967,Operational researcher,40.501982,-73.75873
+2019-06-22 18:00,fraud_Kub PLC,personal_care,136.56,Erika,Gonzalez,F,907 Courtney Via Apt. 896,Irvine,KY,40336,37.6858,-83.9862,13061,"Editor, magazine features",38.106389,-83.724308
+2019-11-09 14:36,fraud_Cummerata-Hilpert,entertainment,44.83,Michael,Olson,M,558 Michael Estates,Luray,MO,63453,40.4931,-91.8912,519,Town planner,40.619782,-92.430624
+2019-02-24 14:54,fraud_Thiel Ltd,travel,2.54,Amanda,Vance,F,14601 Downs Skyway Apt. 440,Sterling City,TX,76951,31.8351,-101.0017,1143,"Scientist, biomedical",31.310539,-101.512097
+2019-06-27 07:43,fraud_O'Keefe-Hudson,grocery_pos,207.2,Debbie,Hughes,F,0182 Owens Burgs Suite 480,Diamond,OH,44412,41.0935,-81.0425,2644,"Engineer, biomedical",41.11096,-81.031159
+2019-12-05 07:10,fraud_Pfeffer LLC,grocery_net,61.13,David,Miller,M,622 Bradley Knoll Apt. 758,Hancock,MD,21750,39.6991,-78.1762,3766,Press photographer,39.059705,-77.538135
+2019-07-23 12:09,fraud_Weimann-Lockman,kids_pets,187.27,Maureen,Garza,F,169 Edward Inlet,Saint Louis,MO,63131,38.6171,-90.4504,927396,Occupational hygienist,39.326872,-91.268731
+2019-04-20 12:31,"fraud_Runte, Green and Emard",health_fitness,40.47,Bryan,Miller,M,411 Laurie Fords,Cass,WV,24927,38.388,-79.9906,365,Special effects artist,37.626846,-80.068211
+2019-08-10 08:57,fraud_Hamill-Daugherty,misc_net,8.94,Debbie,Hughes,F,0182 Owens Burgs Suite 480,Diamond,OH,44412,41.0935,-81.0425,2644,"Engineer, biomedical",40.832982,-81.878498
+2019-06-23 19:16,fraud_Hamill-D'Amore,health_fitness,9.34,John,Stevens,M,428 Morgan River,Hudson,NY,12534,42.247,-73.7552,17867,Travel agency manager,42.041665,-74.368629
+2019-03-25 18:45,fraud_Champlin and Sons,home,17.71,Amber,Perez,F,954 Reyes Ways,Fulton,SD,57340,43.7588,-97.8712,355,Financial adviser,44.145537,-97.657281
+2019-06-21 12:20,fraud_Kessler Group,travel,6.89,Daniel,Escobar,M,61390 Hayes Port,Romulus,MI,48174,42.2203,-83.3583,31515,Police officer,42.373617,-83.614976
+2019-02-05 11:27,"fraud_Reilly, Heaney and Cole",gas_transport,58.86,Timothy,Gomez,M,707 Anthony Causeway,Leo,IN,46765,41.2249,-85.0301,5341,Biomedical engineer,40.930063,-84.740771
+2019-07-23 10:44,fraud_Sawayn PLC,shopping_pos,3.18,Stephanie,Cummings,F,1025 Robin Square,Ash Flat,AR,72513,36.2201,-91.6421,2856,Hydrologist,36.811728,-92.632027
+2019-09-09 03:22,fraud_Lockman Ltd,grocery_pos,106.89,Cassandra,Sanders,F,78117 George Mountains,Paauilo,HI,96776,20.0271,-155.3697,1490,"Scientist, research (maths)",19.131629,-154.945944
+2019-11-05 19:10,fraud_Watsica LLC,personal_care,10.63,Mary,Rodriguez,F,8986 Fitzgerald Plains,Winslow,AR,72959,35.8312,-94.1187,2786,Musician,36.443856,-94.618757
+2019-12-13 01:24,fraud_Friesen-D'Amore,gas_transport,89.51,Gina,Grimes,F,444 Robert Mews,Clarks Mills,PA,16114,41.3851,-80.1752,606,Energy manager,41.632767,-81.167796
+2019-04-27 19:25,"fraud_Daugherty, Pouros and Beahan",shopping_pos,2.44,Christian,Johns,M,892 Solis Neck,Lonsdale,MN,55046,44.4477,-93.4252,5211,Chief Strategy Officer,43.745832,-93.743552
+2019-01-20 00:33,"fraud_Bernier, Volkman and Hoeger",misc_net,3.23,Christopher,Gomez,M,950 Dunn Squares,Tickfaw,LA,70466,30.5668,-90.482,8512,"Accountant, chartered public finance",31.299095,-89.817131
+2019-09-05 16:07,fraud_Kling-Ernser,entertainment,73.39,Monica,Tucker,F,302 Christina Islands,Smiths Grove,KY,42171,37.0581,-86.1938,6841,"Therapist, sports",37.461702,-86.084126
+2019-09-03 18:10,fraud_Yost-Rogahn,personal_care,2.96,Joshua,Carpenter,M,04975 Allison Shoal,Bronx,NY,10463,40.8798,-73.9067,1382480,"Therapist, drama",40.561117,-74.070354
+2019-02-17 23:33,"fraud_Lesch, D'Amore and Brown",food_dining,1.1,Micheal,Walters,M,15315 Vaughn Park Suite 356,Hovland,MN,55606,47.8342,-90.0476,272,Freight forwarder,48.829037,-89.218999
+2020-02-08 08:42,"fraud_Roob, Conn and Tremblay",shopping_pos,10.86,Michelle,Russell,F,55505 Christy Via,Hawley,MN,56549,46.9777,-96.4092,4508,Naval architect,46.003112,-97.012456
+2020-01-25 20:45,fraud_Kihn-Schuster,food_dining,105.99,Tammy,Davis,F,77663 Colleen Freeway,Moundsville,WV,26041,39.9148,-80.731,16183,Physiotherapist,40.157092,-81.678381
+2019-11-17 02:05,fraud_Miller-Hauck,grocery_pos,181.62,Ashley,Cabrera,F,94225 Smith Springs Apt. 617,Vero Beach,FL,32960,27.633,-80.4031,105638,"Librarian, public",27.14519,-79.963913
+2019-09-19 08:38,fraud_Auer-Mosciski,grocery_pos,120.91,Mary,Humphrey,F,9853 Flynn Hollow Apt. 602,Reynolds,ND,58275,47.7068,-97.2092,733,Visual merchandiser,47.134421,-97.198071
+2019-12-01 03:07,"fraud_Wiza, Schaden and Stark",misc_pos,5.4,Willie,Jordan,M,529 West Key,Spearsville,LA,71277,32.955,-92.587,1758,"Psychologist, forensic",33.170237,-92.782245
+2020-01-05 18:53,fraud_Jast-McDermott,shopping_pos,172.46,Carrie,Washington,F,6114 Adams Harbor Suite 096,Kingsford Heights,IN,46346,41.4802,-86.6919,1423,"Psychologist, forensic",41.325856,-86.385274
+2019-12-16 15:35,fraud_Dooley Inc,shopping_pos,9.86,Tammy,Ayers,F,1652 James Mews,Hinckley,OH,44233,41.2419,-81.7453,7646,Medical sales representative,41.003103,-81.963831
+2019-10-12 23:04,fraud_Hilpert-Conroy,kids_pets,249.82,Erik,Patterson,M,162 Jessica Row Apt. 072,Hatch,UT,84735,37.7175,-112.4777,258,Geoscientist,37.689402,-111.631668
+2019-10-03 18:59,"fraud_Nienow, Ankunding and Collier",misc_pos,41.62,Cristian,Jones,M,0423 Kirby Field Suite 623,Wilmette,IL,60091,42.0765,-87.7246,27020,Trade mark attorney,41.477021,-88.586636
+2019-09-24 08:24,fraud_Kozey-Boehm,shopping_net,3.37,Marcia,Molina,F,6744 Jimmy Extensions,Port Gibson,NY,14537,43.033,-77.1575,207,Database administrator,43.025693,-76.589868
+2019-02-21 07:10,fraud_McGlynn-Jaskolski,misc_pos,36.51,Greg,Villarreal,M,2851 Foster Shoals,Schaefferstown,PA,17088,40.3087,-76.2963,823,Gaffer,41.015991,-77.127268
+2019-03-03 06:40,fraud_Cummerata-Jones,gas_transport,44.56,Barbara,Taylor,F,0069 Robin Brooks Apt. 695,Elberta,MI,49628,44.5995,-86.2141,372,"Exhibitions officer, museum/gallery",45.303285,-85.613213
+2019-05-02 00:28,fraud_Beier-Hyatt,shopping_pos,2.45,Catherine,Weber,F,74890 Rodriguez Springs Apt. 540,West Henrietta,NY,14586,43.0397,-77.6871,10256,"Teacher, primary school",43.421517,-78.527322
+2019-03-10 08:16,"fraud_Turcotte, McKenzie and Koss",entertainment,70.99,Jessica,Benitez,F,31281 Thomas Inlet,Montrose,NY,10548,41.2496,-73.9446,3487,Race relations officer,40.693744,-74.759494
+2019-02-25 18:07,"fraud_Kihn, Brakus and Goyette",personal_care,4.56,Allison,Allen,F,40624 Rebecca Spurs,De Witt,AR,72042,34.2853,-91.3336,5161,Electrical engineer,33.457611,-91.990921
+2019-12-02 17:13,"fraud_Reinger, Weissnat and Strosin",food_dining,33.57,Stephanie,Middleton,F,99736 Rose Shoals Apt. 504,Morrisdale,PA,16858,41.0001,-78.2357,3688,Dispensing optician,40.6085,-78.435843
+2019-07-06 16:01,fraud_Schuppe LLC,entertainment,88.7,Justin,Fowler,M,5569 Phillips Neck Apt. 003,Coffeeville,MS,38922,33.9215,-89.6782,3451,Financial trader,34.790913,-89.627009
+2019-01-06 10:26,fraud_Emard Inc,gas_transport,48.77,Matthew,Russell,M,168 Michael Coves Suite 343,June Lake,CA,93529,37.7773,-119.0825,633,Health service manager,37.611839,-118.145062
+2019-04-22 14:27,"fraud_Schumm, McLaughlin and Carter",food_dining,137.96,Jessica,Perez,F,8172 Robertson Parkways Suite 072,Superior,AZ,85173,33.2887,-111.0985,2872,Petroleum engineer,33.526983,-110.770553
+2019-07-13 06:03,"fraud_Schroeder, Hauck and Treutel",entertainment,13.14,Kristina,Lewis,F,5449 Brandi Heights Apt. 111,Tulsa,OK,74130,36.2395,-95.9596,413574,Bookseller,35.342462,-96.438948
+2019-12-06 06:38,"fraud_Rodriguez, Yost and Jenkins",misc_net,63.89,Kimberly,Martin,F,1943 Dennis Inlet Suite 145,Hurricane,WV,25526,38.4257,-81.9943,21902,Sub,38.193559,-82.741957
+2019-06-10 04:33,fraud_Kemmer-Buckridge,misc_pos,225.8,Kathleen,Heath,F,9297 Victor Rest Apt. 382,Albuquerque,NM,87116,35.0561,-106.5506,641349,Charity officer,34.283147,-106.146834
+2019-10-06 09:29,fraud_Kutch LLC,gas_transport,58.05,Robert,Haynes,M,857 Aaron Circles Suite 398,Johns Island,SC,29455,32.8357,-79.8217,20478,Materials engineer,32.871099,-79.490257
+2019-12-07 09:16,fraud_Williamson LLC,misc_pos,51.92,Margaret,Curtis,F,742 Oneill Shore,Florence,MS,39073,32.153,-90.1217,19685,Fine artist,31.923546,-90.2297
+2019-12-19 22:46,fraud_Hickle Group,shopping_pos,49.34,Angela,Taylor,F,6343 Ramirez Skyway Apt. 518,Lakeport,CA,95453,39.047,-122.9328,11256,Podiatrist,38.575295,-123.330056
+2019-03-06 22:04,fraud_Maggio-Fahey,misc_pos,8.81,Timothy,Gomez,M,707 Anthony Causeway,Leo,IN,46765,41.2249,-85.0301,5341,Biomedical engineer,42.004877,-84.488014
+2019-02-16 19:17,"fraud_Watsica, Haag and Considine",shopping_pos,679.08,Angela,Hodges,F,08236 Kim Hill,Indianapolis,IN,46254,39.849,-86.272,910148,Firefighter,39.517214,-85.945557
+2019-04-06 20:40,fraud_Connelly-Carter,home,46.35,Sarah,Bishop,F,554 Mcdonald Valley Apt. 539,Meridian,TX,76665,31.929,-97.6443,2526,Phytotherapist,32.052259,-97.126009
+2019-07-25 22:28,fraud_Schmeler-Howe,personal_care,69.21,Andrew,Tucker,M,583 Gray Creek,Oak Hill,NY,12460,42.4069,-74.1528,277,Glass blower/designer,42.0743,-74.414937
+2019-12-30 03:33,fraud_Huel Ltd,misc_net,115.58,Mark,Tyler,M,82201 Bradley Radial Suite 703,Avera,GA,30803,33.141,-82.515,741,Claims inspector/assessor,32.556591,-81.61178
+2019-08-22 16:54,fraud_Hammes-Beatty,kids_pets,53.31,Jeffrey,Lewis,M,24255 Bryan Square,Palermo,ND,58769,48.3396,-102.24,229,Administrator,48.999874,-102.742436
+2020-02-03 01:30,"fraud_Stanton, Jakubowski and Baumbach",shopping_net,98.96,Omar,Gay,M,2161 Blankenship Freeway,West Hartford,VT,5084,43.7185,-72.4439,140,"Development worker, community",44.173866,-71.685257
+2019-03-10 12:34,fraud_Effertz LLC,entertainment,3.52,Melody,Thompson,F,0362 Anderson Wall,Mound City,MO,64470,40.1362,-95.2138,1631,Architect,39.251003,-95.932422
+2019-08-17 14:16,fraud_Jast Ltd,shopping_net,397.01,Amanda,Adams,F,08580 Jeremy Falls,Bay City,OR,97107,45.5197,-123.8761,1530,Colour technologist,45.975244,-123.506945
+2019-06-09 21:58,fraud_Howe Ltd,misc_pos,1.04,Rebecca,Farley,F,383 Long Islands,Downsville,NY,13755,42.0716,-75.0152,1228,"Psychotherapist, child",41.939722,-75.29044
+2019-12-23 18:21,"fraud_Conroy, Balistreri and Gorczany",health_fitness,14.65,Frank,Anderson,M,0611 Stafford Valley Suite 504,Naples,FL,34112,26.1184,-81.7361,276002,"Programme researcher, broadcasting/film/video",25.185821,-81.063638
+2019-06-20 16:10,fraud_Jacobi and Sons,shopping_pos,9.81,Kimberly,Gonzalez,F,72966 Shannon Pass Apt. 391,Bauxite,AR,72011,34.5091,-92.4828,4074,"Scientist, audiological",33.922608,-92.55206
+2019-12-20 11:28,fraud_Cormier LLC,shopping_net,42.49,Krystal,Key,F,23142 Montoya Island Apt. 742,Corsica,PA,15829,41.1762,-79.1976,1274,Maintenance engineer,41.99713,-79.09188
+2019-12-27 16:14,fraud_Leannon-Ward,food_dining,11.39,Jeffrey,Munoz,M,836 Stephanie Union,Cedar,MI,49621,44.8605,-85.8138,3096,"Social research officer, government",45.76116,-85.800149
+2019-07-01 07:24,fraud_Johns Inc,entertainment,69.11,Teresa,Blankenship,F,6638 Lucero Mill Suite 952,Karnack,TX,75661,32.6205,-94.2,2807,Chiropodist,32.173155,-94.191609
+2020-01-24 12:13,fraud_Fadel Inc,health_fitness,5.73,Casey,Howell,F,374 Christopher Ramp Suite 855,Blackville,SC,29817,33.3645,-81.2718,4913,Technical brewer,34.081015,-80.467595
+2019-11-21 20:17,"fraud_Schoen, Nienow and Bauch",personal_care,47.03,Christopher,Horn,M,956 Sanchez Highway,Mallie,KY,41836,37.2692,-82.9161,798,Facilities manager,36.828406,-82.300821
+2019-11-22 16:46,"fraud_Terry, Johns and Bins",misc_pos,6.0,Donna,Davis,F,6760 Donovan Lakes,Clayton,OK,74536,34.5906,-95.38,1760,Occupational psychologist,34.119061,-96.333365
+2019-12-30 05:43,fraud_Dach-Borer,grocery_net,65.69,Brian,Williams,M,32941 Krystal Mill Apt. 552,Titusville,FL,32780,28.5697,-80.8191,54767,Set designer,29.489891,-80.652373
+2019-01-10 23:20,fraud_Cormier LLC,shopping_net,1.63,Lisa,Collins,F,44197 Jeffrey Port Suite 050,Bridgeport,NJ,8014,39.8016,-75.3478,504,"Engineer, control and instrumentation",38.935911,-75.425038
+2019-06-28 14:11,"fraud_Torp, Muller and Borer",health_fitness,60.47,Vicki,Mendoza,F,3645 Atkins Island Apt. 238,Esbon,KS,66941,39.7562,-98.4462,242,Tourism officer,40.603837,-98.95886
+2019-03-25 02:58,fraud_Koss and Sons,gas_transport,118.47,Mary,Pruitt,F,2819 Luke Greens Suite 563,Kansas City,MO,64114,38.9621,-94.5959,545147,Counsellor,39.688754,-94.601957
+2019-03-27 21:58,fraud_McGlynn-Heathcote,misc_net,9.59,Sabrina,Johnson,F,320 Nicholson Orchard,Thompson,UT,84540,38.9999,-109.615,46,"Surveyor, minerals",39.737416,-110.051726
+2019-12-22 17:04,"fraud_Koss, McLaughlin and Mayer",food_dining,8.85,Sabrina,Johnson,F,320 Nicholson Orchard,Thompson,UT,84540,38.9999,-109.615,46,"Surveyor, minerals",38.405623,-108.808991
+2019-01-02 03:56,fraud_Denesik and Sons,shopping_pos,2.85,Christopher,Horn,M,956 Sanchez Highway,Mallie,KY,41836,37.2692,-82.9161,798,Facilities manager,36.31799,-83.686354
+2020-02-03 22:59,fraud_Jast and Sons,food_dining,44.0,Monica,Tucker,F,302 Christina Islands,Smiths Grove,KY,42171,37.0581,-86.1938,6841,"Therapist, sports",36.27454,-87.003708
+2019-12-02 10:59,fraud_Pacocha-O'Reilly,grocery_pos,134.74,Tami,Forbes,F,5204 Robinson Plaza Suite 897,Barnstable,MA,2630,41.6983,-70.3001,1850,Counselling psychologist,40.927226,-70.062496
+2019-08-08 23:33,"fraud_Kuhic, Bins and Pfeffer",shopping_net,30.76,Jared,Velazquez,M,01479 Murray Circle,Matawan,NJ,7747,40.4109,-74.238,30770,Drilling engineer,40.153595,-73.854001
+2019-08-06 00:04,fraud_Sporer Inc,gas_transport,81.71,Sally,Moore,F,835 Reese Views Suite 884,Hopkins,SC,29061,33.9349,-80.8449,13717,Chiropodist,33.499651,-80.828672
+2019-01-28 18:01,"fraud_Dare, Fritsch and Zboncak",health_fitness,62.68,Michelle,Woods,F,952 Joseph Throughway,Munith,MI,49259,42.3703,-84.2485,2523,Geophysicist/field seismologist,41.884328,-84.838276
+2019-07-03 05:14,"fraud_Raynor, Feest and Miller",gas_transport,76.28,Carlos,Chung,M,8957 Russell Key,Grant,AL,35747,34.4959,-86.259,5901,Curator,34.925346,-85.782309
+2019-05-04 06:39,fraud_Bins-Rice,gas_transport,77.33,Johnny,Bennett,M,321 Camacho Causeway,Boonton,NJ,7005,40.9115,-74.414,15269,"Psychologist, sport and exercise",41.891005,-75.103807
+2019-07-10 14:04,fraud_Streich Ltd,home,117.77,Jessica,Potter,F,7600 Stephen Course Suite 031,Red River,NM,87558,36.6659,-105.4694,606,"Surveyor, land/geomatics",35.770934,-105.565476
+2019-08-24 19:03,"fraud_Little, Gutmann and Lynch",shopping_net,4.56,James,Greene,M,082 Hernandez Bypass Apt. 886,Quanah,TX,79252,34.2956,-99.7494,3202,"Librarian, public",33.8724,-99.473258
+2019-12-11 06:48,"fraud_Heller, Gutmann and Zieme",grocery_pos,128.2,Dale,Smith,M,25036 Contreras Turnpike Suite 270,Purmela,TX,76566,31.4841,-97.9903,258,Web designer,30.701053,-97.314849
+2019-10-26 19:21,"fraud_Mante, Luettgen and Hackett",health_fitness,16.56,Jason,Singh,M,4720 Anna Ways,Murrayville,IL,62668,39.5723,-90.2379,1512,Commercial/residential surveyor,38.831053,-90.171051
+2019-06-10 16:55,"fraud_Prosacco, Kreiger and Kovacek",home,24.56,Shannon,Patterson,F,9808 Ellis Bypass,Mount Morris,NY,14510,42.6835,-77.8664,4895,Acupuncturist,42.009313,-77.50653
+2019-05-27 03:59,"fraud_Casper, Hand and Zulauf",grocery_pos,213.9,Sharon,Smith,F,17666 David Valleys,Sun City,CA,92585,33.7467,-117.1721,54287,"Designer, exhibition/display",33.559869,-116.345485
+2019-03-20 16:23,fraud_Dibbert and Sons,entertainment,66.24,Benjamin,Harris,M,0881 Lori Pines,Chester,MD,21619,38.9583,-76.2842,5848,Paediatric nurse,39.718144,-76.297864
+2020-02-01 07:47,fraud_McDermott-Weimann,grocery_pos,117.37,Denise,Barnett,F,23220 Eaton Harbors,Kirby,OH,43330,40.813,-83.4196,118,Private music teacher,40.794286,-83.484236
+2019-12-24 16:05,fraud_Hilpert-Conroy,kids_pets,21.72,Margaret,Lam,F,6911 Nicholas Keys Apt. 237,Armagh,PA,15920,40.4603,-79.0097,922,Early years teacher,40.90252,-78.43513
+2019-11-16 22:06,"fraud_Zemlak, Tillman and Cremin",personal_care,6.04,James,Strickland,M,25454 Leonard Lake,Spring Church,PA,15686,40.6153,-79.4545,972,Public relations account executive,41.562409,-79.764469
+2019-12-16 15:01,fraud_Lynch-Wisozk,home,50.67,Michelle,Russell,F,55505 Christy Via,Hawley,MN,56549,46.9777,-96.4092,4508,Naval architect,46.012379,-95.621549
+2020-02-17 04:42,fraud_Deckow-O'Conner,grocery_pos,122.12,Tracy,Conway,F,6778 Campos Field,Bonfield,IL,60913,41.1573,-88.0619,1617,Medical secretary,40.8764,-87.925012
+2019-03-22 02:19,"fraud_Tillman, Dickinson and Labadie",gas_transport,56.3,Christopher,White,M,13613 Hammond Ferry,Clutier,IA,52217,42.0789,-92.3763,590,"Embryologist, clinical",41.211774,-92.287491
+2019-06-27 16:43,fraud_Sporer-Keebler,personal_care,23.09,Gail,Weaver,F,979 Stewart Lake,New Ellenton,SC,29809,33.413,-81.69,2206,Biomedical scientist,33.454382,-82.167535
+2019-07-21 04:06,fraud_Dooley-Thompson,misc_net,4.25,Jennifer,Vega,F,91644 Crystal Drives,Eagarville,IL,62023,39.1118,-89.7855,91,Materials engineer,38.99077,-89.400617
+2019-10-10 14:59,fraud_Zboncak Ltd,food_dining,146.17,Jeremy,Whitney,M,0371 Aimee Neck Suite 856,Sacramento,CA,95827,38.5662,-121.3286,757530,Magazine features editor,39.490666,-120.46005
+2019-10-12 16:05,"fraud_Cole, Hills and Jewess",home,82.36,Margaret,Gibson,F,382 Williams Stream Suite 197,Scotland,MD,20687,38.0828,-76.3477,313,Insurance underwriter,38.424244,-77.016503
+2019-10-28 12:42,"fraud_Hintz, Bauch and Smith",health_fitness,51.57,Bryce,Joseph,M,148 Baker Field,Chester Heights,PA,19017,39.8839,-75.4669,348,Management consultant,40.438537,-74.498367
+2019-09-16 20:21,fraud_Wilkinson LLC,personal_care,23.34,Joanne,Padilla,F,477 Alejandro Knolls Suite 828,Gardiner,OR,97441,43.7857,-124.1437,260,"Engineer, maintenance",44.683073,-124.57102
+2019-01-18 10:09,"fraud_Robel, Cummerata and Prosacco",gas_transport,47.82,Kimberly,Miller,F,75533 Tamara Valleys,Logan,IL,62856,37.9943,-88.9417,324,"Scientist, research (physical sciences)",37.953144,-88.203166
+2019-06-01 15:24,fraud_Kutch-Wilderman,home,56.76,Derrick,Flores,M,83690 Nicholas Ports Apt. 846,Oakland,TN,38060,35.2229,-89.5518,9496,Furniture conservator/restorer,35.035897,-89.250533
+2020-02-01 23:25,"fraud_Larson, Quitzon and Spencer",travel,6.29,Tyler,Mills,M,7838 Jason Squares,Elizabethtown,KY,42701,37.6848,-85.8784,48194,Surgeon,38.179197,-85.275287
+2019-06-03 02:00,"fraud_Stroman, Hudson and Erdman",gas_transport,76.36,Andrea,Lewis,F,43075 Cohen Shoals,Ashford,WA,98304,46.7531,-121.9898,759,Video editor,47.359806,-122.516424
+2019-09-29 03:22,"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,101.65,Patrick,Torres,M,27386 Snyder Station,Oxford,MI,48371,42.8223,-83.2829,24840,Agricultural consultant,43.180048,-82.406596
+2019-04-12 10:17,fraud_Kutch LLC,gas_transport,51.73,Sara,Ramirez,F,23843 Scott Island,Birmingham,IA,52535,40.8626,-91.9534,888,Camera operator,41.650545,-92.172218
+2019-09-04 05:47,fraud_Kerluke-Abshire,shopping_net,74.64,Peter,Caldwell,M,08966 Beltran Route Suite 905,Oaks,PA,19456,40.1334,-75.4536,737,Oceanographer,39.877244,-75.08085
+2019-07-06 17:31,"fraud_Bahringer, Schoen and Corkery",shopping_pos,4.46,Vicki,Mendoza,F,3645 Atkins Island Apt. 238,Esbon,KS,66941,39.7562,-98.4462,242,Tourism officer,39.39002,-97.505601
+2019-04-06 12:21,fraud_Hudson-Grady,shopping_pos,2.46,Shannon,Williams,F,9345 Spencer Junctions Suite 183,Alpharetta,GA,30009,34.077,-84.3033,165556,Prison officer,34.666951,-84.91463
+2019-07-21 21:35,fraud_Wuckert-Goldner,home,66.95,Margaret,Mendez,F,7952 Karen Pike,De Soto,KS,66018,38.9462,-94.9714,5760,Chief Executive Officer,38.520882,-95.499394
+2019-01-15 15:55,"fraud_Labadie, Treutel and Bode",shopping_net,8.34,Sarah,Clark,F,25961 Beverly Union Apt. 042,North Wilkesboro,NC,28659,36.2017,-81.1286,21134,Dispensing optician,36.389646,-80.680429
+2019-05-05 20:23,"fraud_Streich, Rolfson and Wilderman",kids_pets,110.64,Scott,Fuller,M,861 Karen Common,Haw River,NC,27258,36.0424,-79.3242,6006,Paramedic,35.29041,-78.513412
+2019-02-04 13:58,fraud_Hackett Group,travel,4.3,Charles,Moreno,M,838 Franklin Prairie Apt. 902,Key West,FL,33040,24.6557,-81.3824,32891,Town planner,25.230591,-80.510367
+2019-08-18 09:55,fraud_Hackett-Lueilwitz,grocery_pos,60.65,Ashley,Whitney,F,4038 Smith Avenue,Jones,AL,36749,32.5104,-86.8138,1089,Materials engineer,33.467811,-86.82258
+2019-03-23 21:56,fraud_Dare-Marvin,entertainment,80.75,Mark,Wood,M,854 Walker Dale Suite 488,Bowdoin,ME,4287,44.0575,-69.9656,3224,"Engineer, electronics",44.937598,-69.807
+2020-01-09 00:46,fraud_Botsford Ltd,shopping_pos,4.34,Tiffany,Stephens,F,1447 Ryan Lodge,Grand Bay,AL,36541,30.4983,-88.3282,15647,"Scientist, physiological",30.387567,-89.208617
+2019-03-15 17:05,fraud_Hickle Group,shopping_pos,9.05,Daniel,Briggs,M,7118 Jessica Unions Apt. 789,Moriarty,NM,87035,34.9889,-106.0609,7268,"Therapist, art",34.511259,-105.820593
+2019-04-21 14:19,fraud_Schuppe-Schuppe,food_dining,21.16,Robert,Haynes,M,857 Aaron Circles Suite 398,Johns Island,SC,29455,32.8357,-79.8217,20478,Materials engineer,32.095989,-80.417639
+2019-04-30 21:07,fraud_Thiel Ltd,travel,16.33,Jenna,Brooks,F,50872 Alex Plain Suite 088,Baton Rouge,LA,70808,30.4066,-91.1468,378909,"Designer, furniture",30.631014,-90.599833
+2019-01-15 22:22,fraud_Bradtke PLC,grocery_pos,308.33,Patrick,Vaughan,M,651 Miller Common,Parsonsfield,ME,4047,43.745,-70.9092,1892,Audiological scientist,42.768322,-71.629723
+2019-06-29 23:22,fraud_Kuhic LLC,shopping_net,13.39,Donna,Moreno,F,32301 Albert River Suite 364,Ronceverte,WV,24970,37.7418,-80.4626,4575,Statistician,37.363433,-80.603506
+2019-02-17 17:34,fraud_Schoen-Quigley,kids_pets,48.15,Jessica,Jordan,F,071 Wise Trace,Coleharbor,ND,58531,47.5196,-101.2332,307,Make,48.429931,-100.415327
+2019-07-10 20:58,fraud_Gerhold LLC,home,40.47,Kimberly,Bush,F,6027 Scott Meadows Suite 494,Dell City,TX,79837,31.924,-105.2099,579,Hydrogeologist,31.304652,-104.987352
+2019-12-08 10:21,fraud_Kuhn LLC,misc_net,61.26,Ryan,Joseph,M,8850 Jessica Center,Atlantic,VA,23303,37.9073,-75.5089,741,"Geologist, engineering",38.597621,-75.414274
+2019-10-28 15:52,"fraud_Wuckert, Wintheiser and Friesen",home,230.65,Robert,Holland,M,431 Tracy Expressway,Milner,GA,30257,33.141,-84.1759,4138,Field seismologist,34.050547,-83.567445
+2019-09-30 00:20,fraud_Christiansen-Gusikowski,misc_pos,8.03,Jessica,Jordan,F,071 Wise Trace,Coleharbor,ND,58531,47.5196,-101.2332,307,Make,47.808546,-102.178443
+2019-08-21 12:29,fraud_Breitenberg-Hermiston,kids_pets,187.24,Margaret,Williams,F,165 Jerry Meadows Suite 460,Surrency,GA,31563,31.6489,-82.1982,1324,"Engineer, technical sales",32.442841,-81.464064
+2019-03-08 03:52,fraud_Mraz-Herzog,gas_transport,73.38,Ana,Howell,F,4664 Sanchez Common Suite 930,Bradley,SC,29819,34.0326,-82.2027,1523,Research scientist (physical sciences),34.944116,-81.953171
+2019-02-15 01:04,fraud_Bauch-Raynor,grocery_pos,85.04,Deborah,Fisher,F,1911 Fisher Brook,Kirtland Afb,NM,87117,35.0203,-106.5503,310,"Surveyor, land/geomatics",34.768866,-106.876806
+2019-12-13 08:18,fraud_Kling-Grant,grocery_net,47.78,Angela,Taylor,F,6343 Ramirez Skyway Apt. 518,Lakeport,CA,95453,39.047,-122.9328,11256,Podiatrist,39.730769,-122.107023
+2019-11-08 20:02,fraud_Kuhn Group,food_dining,26.12,Andrew,Patterson,M,06959 Stephen Branch Suite 246,Thida,AR,72165,35.5762,-91.4539,111,Careers information officer,35.667779,-92.318582
+2019-04-21 15:45,fraud_Flatley Group,misc_pos,1.2,Victoria,Fleming,F,2807 Parker Station Suite 080,Stanchfield,MN,55080,45.6675,-93.2433,2607,"Lecturer, further education",44.856421,-92.276946
+2019-04-24 14:17,fraud_Renner Ltd,home,24.34,Steven,Brooks,M,2622 Reynolds Isle,Manley,NE,68403,40.9207,-96.168,206,Human resources officer,41.625045,-96.68344
+2019-10-19 07:31,fraud_Cummerata-Jones,gas_transport,101.48,Jacqueline,Marsh,F,950 Sheryl Spurs,Dunlevy,PA,15432,40.1151,-79.8627,427,Mining engineer,40.246466,-80.352336
+2019-09-06 11:25,"fraud_Eichmann, Bogan and Rodriguez",gas_transport,37.79,Rick,Martinez,M,062 Poole Hollow Apt. 815,Deadwood,SD,57732,44.3566,-103.6999,1979,Multimedia programmer,44.870969,-103.654871
+2019-12-28 11:07,fraud_Koepp-Witting,grocery_pos,233.36,Tara,Campbell,F,05050 Rogers Well Apt. 439,Rock Springs,WY,82901,41.606,-109.23,27971,Music therapist,40.792431,-108.63301
+2019-12-07 14:50,fraud_Bernhard-Lesch,food_dining,59.12,Dawn,Tucker,F,789 Herring Manors,Houston,TX,77007,29.7736,-95.4034,2906700,"Copywriter, advertising",29.917673,-95.324037
+2019-08-19 17:03,"fraud_McDermott, Osinski and Morar",home,35.89,Kevin,Elliott,M,1852 Vincent Isle Suite 328,Newark Valley,NY,13811,42.2281,-76.1625,4354,Further education lecturer,42.628955,-77.066219
+2019-04-28 22:33,fraud_Kilback LLC,food_dining,50.32,Joe,Howard,M,109 Brian Lights Apt. 504,Shippingport,PA,15077,40.6025,-80.3863,198,Secretary/administrator,40.742698,-80.360104
+2019-04-25 12:45,fraud_Friesen Inc,shopping_pos,5.7,Valerie,Davis,F,3861 Anderson Ramp Apt. 536,Drakes Branch,VA,23937,36.9688,-78.5615,1970,Energy engineer,36.612316,-78.370972
+2019-05-20 13:15,"fraud_Dare, Casper and Bartoletti",kids_pets,52.55,Crystal,Fuller,F,000 Jennifer Mills,Issaquah,WA,98027,47.4974,-122.0107,50489,Osteopath,47.799044,-121.178761
+2019-09-17 16:40,fraud_Heller PLC,health_fitness,73.72,Rebecca,Butler,F,0665 Lisa Alley,Winger,MN,56592,47.5375,-95.9941,516,Applications developer,46.586042,-95.410107
+2020-02-22 15:21,fraud_Skiles LLC,home,7.3,William,Skinner,M,524 Wu Spurs Suite 894,Mount Hope,AL,35651,34.4793,-87.4769,1312,"Librarian, academic",34.388374,-86.58027
+2020-02-18 07:54,fraud_Heller-Langosh,gas_transport,48.93,Jennifer,Black,F,2870 Bean Terrace Apt. 756,Thomas,WV,26292,39.1505,-79.503,836,Forensic psychologist,39.090316,-80.169127
+2019-11-17 14:53,fraud_Gleason and Sons,kids_pets,7.24,Monica,Cohen,F,864 Reynolds Plains,Uledi,PA,15484,39.8936,-79.7856,328,Tree surgeon,39.087599,-79.253702
+2019-06-27 09:50,fraud_Rowe-Vandervort,grocery_net,73.13,Mary,Wall,F,2481 Mills Lock,Plainfield,NJ,7060,40.6152,-74.415,71485,Leisure centre manager,39.624717,-74.332472
+2020-01-25 01:35,"fraud_Robel, Cummerata and Prosacco",gas_transport,81.94,Robin,Smith,F,0537 Margaret Common Suite 526,Coleman,TX,76834,31.8287,-99.427,5908,Radio producer,31.74806,-100.138588
+2019-07-16 20:31,fraud_Waelchi-Wolf,kids_pets,216.01,Julia,Bell,F,576 House Crossroad,West Sayville,NY,11796,40.732,-73.1,4056,Film/video editor,41.676242,-73.502946
+2019-03-27 18:20,fraud_Thiel-Thiel,entertainment,105.72,Christine,Harris,F,29606 Martinez Views Suite 653,Hinesburg,VT,5461,44.3346,-73.098,4542,Claims inspector/assessor,43.498043,-72.707765
+2019-06-17 02:40,"fraud_Terry, Johns and Bins",misc_pos,6.08,Krystal,Gamble,F,47152 Clayton Burg,Manchester,MD,21102,39.6747,-76.8941,11751,Clinical research associate,39.021017,-77.711569
+2019-03-03 21:14,"fraud_Walter, Hettinger and Kessler",personal_care,32.42,Bryan,Miller,M,411 Laurie Fords,Cass,WV,24927,38.388,-79.9906,365,Special effects artist,37.439047,-79.102633
+2019-03-17 18:52,fraud_Friesen Ltd,health_fitness,8.79,Juan,Sherman,M,5939 Garcia Forges Suite 297,San Antonio,TX,78214,29.3641,-98.4924,1595797,Land,30.286291,-98.20457
+2019-05-05 12:20,"fraud_Larkin, Stracke and Greenfelder",entertainment,19.8,Patricia,Mendoza,F,1683 Davidson Freeway,Mendon,UT,84325,41.71,-111.9817,2078,"Scientist, audiological",42.701395,-111.338701
+2019-11-10 14:50,"fraud_Brown, Homenick and Lesch",health_fitness,1.57,Jodi,Rodriguez,F,5796 Lee Coves Apt. 286,Walnut Ridge,AR,72476,36.0244,-90.9288,7155,"Engineer, control and instrumentation",36.081998,-91.28892
+2019-05-12 21:49,"fraud_O'Reilly, Mohr and Purdy",home,57.49,Stephanie,Crane,F,144 Martinez Curve,Central,IN,47110,38.097,-86.1723,350,Counsellor,38.00357,-87.044566
+2019-02-09 00:59,"fraud_Lind, Huel and McClure",gas_transport,68.92,Curtis,Young,M,4319 Watson Shoals Suite 658,Falconer,NY,14733,42.1239,-79.1895,3833,Metallurgist,41.634743,-78.649186
+2019-07-15 22:32,fraud_Schuppe LLC,entertainment,80.17,Katherine,Tucker,F,670 Le Meadows Suite 250,Lakeland,FL,33811,27.9865,-82.0139,237282,Clothing/textile technologist,28.532217,-82.797899
+2019-08-12 20:38,fraud_Crona and Sons,kids_pets,15.63,Jason,Gray,M,875 Amy Point,Amorita,OK,73719,36.9412,-98.2458,83,Barrister's clerk,37.49047,-97.515183
+2020-03-05 14:54,fraud_Leannon-Nikolaus,travel,1.22,Barbara,Taylor,F,0069 Robin Brooks Apt. 695,Elberta,MI,49628,44.5995,-86.2141,372,"Exhibitions officer, museum/gallery",44.000856,-86.124283
+2019-08-01 01:19,fraud_Jast Ltd,shopping_net,175.06,Morgan,Murray,F,2788 Brittney Island,Blairstown,MO,64726,38.5319,-93.9221,467,Agricultural consultant,39.44604,-93.217305
+2019-01-02 04:11,fraud_Kuphal-Bartoletti,misc_net,98.19,James,Lynch,M,5155 Mary Common Apt. 927,Utica,PA,16362,41.4798,-79.9403,1102,Garment/textile technologist,42.20781,-79.477673
+2019-08-18 14:48,"fraud_Hauck, Dietrich and Funk",kids_pets,5.76,Robert,James,M,18316 Cannon Place,Newport,ME,4953,44.8393,-69.2675,3228,Lexicographer,44.172929,-69.45779
+2019-08-21 22:02,"fraud_Watsica, Haag and Considine",shopping_pos,2.66,Daniel,Escobar,M,61390 Hayes Port,Romulus,MI,48174,42.2203,-83.3583,31515,Police officer,41.876006,-84.17709
+2020-01-03 03:26,"fraud_Jenkins, Hauck and Friesen",gas_transport,50.55,Marissa,Clark,F,2677 Byrd Village Suite 035,San Jose,CA,95148,37.3304,-121.7913,973849,Geoscientist,36.340527,-121.776627
+2019-05-27 12:39,"fraud_Hermiston, Pacocha and Smith",health_fitness,74.24,Tyler,Garcia,M,408 Bradley Rest,Doe Hill,VA,24433,38.4207,-79.4629,99,Dance movement psychotherapist,38.433171,-79.686781
+2019-10-31 23:37,"fraud_McDermott, Osinski and Morar",home,1.98,Joshua,Bryant,M,5452 Patricia Inlet Apt. 280,Nelson,NE,68961,40.201,-98.0684,732,Television/film/video producer,40.447683,-98.326004
+2020-01-11 02:24,"fraud_Streich, Hansen and Veum",gas_transport,81.95,Barbara,Lowe,F,67210 Lori Creek,Sherman,TX,75092,33.6372,-96.6184,46563,Systems developer,33.213068,-97.093891
+2019-01-15 07:01,fraud_Wuckert-Walter,grocery_net,96.12,Vicki,Mendoza,F,3645 Atkins Island Apt. 238,Esbon,KS,66941,39.7562,-98.4462,242,Tourism officer,39.407032,-97.587183
+2019-12-21 09:13,"fraud_Ferry, Lynch and Kautzer",misc_net,3.76,Felicia,Mckee,F,84079 Thomas Burgs,Tomales,CA,94971,38.2427,-122.9145,337,Occupational psychologist,38.159212,-122.703244
+2019-08-21 05:40,fraud_Barton Inc,grocery_pos,141.52,Martin,Duarte,M,6251 Payne Flats Apt. 581,Luzerne,MI,48636,44.6001,-84.2931,864,General practice doctor,45.173981,-84.635064
+2019-07-28 18:11,"fraud_Nienow, Ankunding and Collier",misc_pos,64.69,Sharon,Johnson,F,7202 Jeffrey Mills,Conway,WA,98238,48.34,-122.3456,85,"Research officer, political party",49.159289,-121.960813
+2019-12-29 18:26,fraud_Johnston-Casper,travel,2.9,Jessica,Jordan,F,071 Wise Trace,Coleharbor,ND,58531,47.5196,-101.2332,307,Make,47.663201,-101.545492
+2019-10-27 05:36,fraud_Cole PLC,grocery_pos,69.2,Randy,Wood,M,542 Howe Mission Apt. 092,Port Richey,FL,34668,28.3011,-82.6927,42619,Environmental education officer,29.24873,-82.844834
+2019-05-27 02:58,"fraud_Reinger, Weissnat and Strosin",food_dining,56.57,Melissa,Phillips,F,5069 Scott Pass Apt. 654,Meadville,MS,39653,31.4285,-90.8578,2799,"Therapist, horticultural",30.697181,-91.009226
+2019-02-05 19:40,fraud_Langworth LLC,personal_care,37.1,Cheryl,Ballard,F,248 James Squares Apt. 838,Halstad,MN,56548,47.3551,-96.798,771,"Scientist, audiological",48.001157,-97.117188
+2019-06-08 17:44,fraud_Kutch-Wilderman,home,12.59,Rebecca,Erickson,F,594 Berry Lights Apt. 392,Wilmington,NC,28405,34.2651,-77.867,186140,English as a second language teacher,34.113735,-78.665797
+2019-12-03 12:42,"fraud_Haley, Batz and Auer",health_fitness,73.24,Ian,Patton,M,8088 Sherman Radial Suite 689,Helm,CA,93627,36.4992,-120.0936,123,Early years teacher,36.492494,-120.195927
+2019-10-06 23:30,fraud_Auer-West,shopping_net,30.42,Lori,Ramirez,F,4293 Ramirez Squares,Ranier,MN,56668,48.6031,-93.2977,136,Ceramics designer,47.88398,-94.236678
+2019-06-27 13:15,"fraud_Torp, Muller and Borer",health_fitness,130.6,Larry,House,M,911 Sabrina Trafficway,Cochranton,PA,16314,41.5205,-80.0573,5507,Retail merchandiser,41.860834,-79.101817
+2020-02-17 02:07,fraud_Huel-Langworth,misc_net,262.78,Katherine,Tucker,F,670 Le Meadows Suite 250,Lakeland,FL,33811,27.9865,-82.0139,237282,Clothing/textile technologist,27.040262,-81.234546
+2019-07-11 23:55,fraud_Reichel Inc,entertainment,110.74,Jason,Singh,M,4720 Anna Ways,Murrayville,IL,62668,39.5723,-90.2379,1512,Commercial/residential surveyor,39.598835,-89.309181
+2020-01-02 15:11,fraud_Upton PLC,entertainment,84.62,Jill,Jacobs,F,034 Kimberly Mountains,Brandon,FL,33510,27.9551,-82.2966,79613,Environmental consultant,27.753775,-81.552414
+2019-11-20 03:17,fraud_McDermott-Weimann,grocery_pos,68.19,Sydney,Montoya,F,265 Christian Summit Suite 231,Fairhope,AL,36532,30.5012,-87.8835,27829,"Presenter, broadcasting",31.058105,-87.540742
+2020-02-12 12:22,fraud_Pollich LLC,home,13.74,Monique,Martin,F,68276 Matthew Springs,Ratcliff,TX,75858,31.3833,-95.0619,43,"Engineer, production",30.769553,-94.989073
+2019-07-29 19:15,"fraud_Mante, Luettgen and Hackett",health_fitness,71.19,James,Yoder,M,83359 Lopez Point,Clune,PA,15727,40.5503,-79.3237,168,Race relations officer,40.772698,-78.38022
+2019-08-09 00:12,"fraud_Herman, Treutel and Dickens",misc_net,103.51,Jacqueline,Howard,F,4511 Choi Lock,Delhi,LA,71232,32.3929,-91.4714,6581,Multimedia programmer,33.376407,-91.849856
+2019-01-01 10:14,fraud_Heaney-Marquardt,entertainment,22.32,Debra,Eaton,F,72743 Brian Run,Paradise Valley,AZ,85253,33.5494,-111.9565,17047,Building surveyor,34.041368,-112.265105
+2019-07-13 05:29,"fraud_Reilly, Heaney and Cole",gas_transport,57.89,Erin,Chavez,F,3379 Williams Common,Littleton,CO,80120,39.5994,-105.0044,320420,Water engineer,38.895619,-104.439061
+2019-12-08 08:42,"fraud_Ferry, Lynch and Kautzer",misc_net,168.14,Crystal,Gamble,F,899 Michele View Suite 960,Philadelphia,PA,19149,40.0369,-75.0664,1526206,Structural engineer,39.171542,-75.497138
+2020-02-28 14:24,fraud_Botsford PLC,home,13.87,Stephanie,Crane,F,144 Martinez Curve,Central,IN,47110,38.097,-86.1723,350,Counsellor,38.904453,-86.401423
+2019-09-22 13:20,fraud_Quitzon-Goyette,home,68.31,Amanda,Spencer,F,6682 Green Forks,Ogdensburg,NJ,7439,41.0767,-74.5982,2456,Senior tax professional/tax inspector,41.510055,-74.734083
+2019-11-08 13:33,"fraud_Turner, Ruecker and Parisian",misc_pos,21.98,Matthew,Lambert,M,7188 Melissa Crest Apt. 151,New Holstein,WI,53061,43.9446,-88.0911,5196,Child psychotherapist,44.428524,-89.089871
+2020-02-16 19:41,"fraud_Koss, Hansen and Lueilwitz",home,38.69,Matthew,Young,M,8840 Miller Port Suite 645,Indian Wells,CA,92210,33.7163,-116.3381,4677,Learning mentor,32.943313,-115.812721
+2020-02-27 15:59,fraud_Ernser-Feest,home,76.55,Matthew,Huerta,M,622 Williams Trafficway,Ringwood,IL,60072,42.4048,-88.3054,928,Outdoor activities/education manager,43.350575,-87.63546
+2019-11-13 01:00,fraud_Smitham-Boehm,grocery_net,54.7,James,Hunt,M,7369 Gabriel Tunnel,Pointe Aux Pins,MI,49775,45.7549,-84.447,95,Electrical engineer,46.026328,-83.984722
+2019-12-26 12:08,fraud_Shields-Wunsch,health_fitness,22.26,Jeffery,Brown,M,296 Maria Street,West Eaton,NY,13484,42.8546,-75.6605,176,Science writer,43.829653,-75.097227
+2019-01-21 21:08,fraud_Sporer-Keebler,personal_care,24.46,Robert,Flores,M,3277 Fields Meadows Apt. 790,Greenview,CA,96037,41.5403,-122.9366,308,Call centre manager,42.473334,-123.451386
+2019-03-03 06:20,fraud_Kiehn Inc,grocery_pos,41.34,Gregory,Wallace,M,27203 Darrell Landing,Saint James City,FL,33956,26.529,-82.0916,3776,Sport and exercise psychologist,26.132206,-82.80585
+2019-12-16 01:03,"fraud_Huel, Hammes and Witting",grocery_pos,44.5,Robert,Williams,M,09419 Lewis Rapids,Bay City,MI,48706,43.6088,-83.953,67858,Water quality scientist,43.171056,-83.07833
+2019-11-10 11:50,"fraud_Schoen, Kuphal and Nitzsche",grocery_pos,154.35,Cassandra,Nunez,F,9572 Austin Forge Suite 612,Clay Center,OH,43408,41.5686,-83.3632,269,Insurance underwriter,41.472671,-83.509019
+2019-04-27 11:54,fraud_Jaskolski-Vandervort,misc_net,7.38,Christopher,Miller,M,493 Fitzgerald Fields Suite 454,Varnell,GA,30756,34.9298,-84.9885,74,Pensions consultant,34.414598,-84.925399
+2019-07-01 15:27,fraud_Boyer-Reichert,shopping_net,8.12,Scott,Martin,M,31472 Cody Place Suite 740,Kensington,MD,20895,39.0298,-77.0793,19054,Operations geologist,39.961755,-76.794943
+2019-07-05 22:34,fraud_Goyette-Gerhold,kids_pets,71.81,Ana,Howell,F,4664 Sanchez Common Suite 930,Bradley,SC,29819,34.0326,-82.2027,1523,Research scientist (physical sciences),33.468795,-82.678702
+2019-07-02 22:14,fraud_Jakubowski Inc,home,23.07,Denise,Barnett,F,23220 Eaton Harbors,Kirby,OH,43330,40.813,-83.4196,118,Private music teacher,40.489836,-83.988586
+2019-01-15 20:45,"fraud_Monahan, Hermann and Johns",travel,6.64,Pamela,Curtis,F,8969 Fuentes Station Apt. 291,Mill Creek,PA,17060,40.4679,-77.8967,1334,Archaeologist,40.249232,-78.055713
+2019-10-02 02:31,fraud_Miller-Hauck,grocery_pos,70.84,Ronald,Carson,M,870 Rocha Drive,Harrington Park,NJ,7640,40.9918,-73.98,4664,"Radiographer, diagnostic",40.11781,-73.788788
+2019-09-30 02:01,"fraud_Moen, Reinger and Murphy",grocery_pos,86.31,Candice,Brown,F,9412 Harris Mews,O Brien,TX,79539,33.3749,-99.8473,178,Warden/ranger,33.666996,-98.893819
+2019-02-12 10:21,"fraud_Johnson, Runolfsdottir and Mayer",misc_net,40.83,Edward,Sanchez,M,594 White Dale Suite 530,Malad City,ID,83252,42.1808,-112.262,4154,Nature conservation officer,42.783781,-112.099954
+2019-06-13 18:55,fraud_Lubowitz-Walter,kids_pets,31.92,Becky,Mckinney,F,250 Benjamin Hill Apt. 026,Mobile,AL,36617,30.7145,-88.0918,270712,"Surveyor, land/geomatics",31.616611,-87.505223
+2019-04-15 14:50,fraud_Macejkovic-Lesch,shopping_pos,6.75,Jamie,Carr,F,55363 Aaron Circle Suite 450,Lawn,PA,17041,40.2236,-76.538,213,Special educational needs teacher,39.98873,-76.108622
+2019-06-02 15:44,"fraud_Romaguera, Wehner and Tromp",kids_pets,26.68,Jessica,Jordan,F,071 Wise Trace,Coleharbor,ND,58531,47.5196,-101.2332,307,Make,46.648184,-100.639337
+2020-01-06 21:43,"fraud_Ritchie, Oberbrunner and Cremin",travel,7.91,Justin,Fowler,M,5569 Phillips Neck Apt. 003,Coffeeville,MS,38922,33.9215,-89.6782,3451,Financial trader,34.165832,-89.175355
+2019-06-24 14:47,fraud_Ullrich Ltd,kids_pets,49.49,Christine,Burns,F,343 Hannah Parkway,Comfort,WV,25049,38.1372,-81.5962,630,Fine artist,38.557314,-80.650475
+2019-04-11 19:59,fraud_Kuhn Group,food_dining,51.82,Christopher,Sheppard,M,39218 Baker Shoals,Bristow,IN,47515,38.1981,-86.6821,965,Horticultural therapist,38.77073,-87.644787
+2019-12-26 05:24,fraud_Mraz-Herzog,gas_transport,62.31,Chris,White,M,98897 Bennett Lodge,Bessemer,AL,35022,33.3224,-86.9657,71463,Radio broadcast assistant,33.997681,-87.473442
+2019-09-01 12:07,fraud_Mohr Inc,shopping_pos,6.93,Felicia,Thomas,F,47035 Murray Harbors,Achille,OK,74720,33.8396,-96.3648,608,Seismic interpreter,34.191793,-96.673922
+2019-02-11 22:56,fraud_Shanahan-Lehner,personal_care,28.67,Christopher,Henry,M,1198 Robert Stravenue Apt. 479,Armonk,NY,10504,41.136,-73.7009,7987,Television/film/video producer,40.141914,-73.762332
+2019-04-23 13:48,fraud_Leannon-Ward,food_dining,51.39,Allison,Allen,F,40624 Rebecca Spurs,De Witt,AR,72042,34.2853,-91.3336,5161,Electrical engineer,34.723866,-92.116974
+2019-06-16 23:46,"fraud_Reichert, Huels and Hoppe",shopping_net,1.13,Mary,Wall,F,2481 Mills Lock,Plainfield,NJ,7060,40.6152,-74.415,71485,Leisure centre manager,41.303128,-75.33274
+2019-11-25 01:54,"fraud_Greenholt, Jacobi and Gleason",gas_transport,91.5,Jacqueline,Washington,F,138 Stephen Ridges Apt. 978,Umatilla,FL,32784,28.9254,-81.6801,11432,Private music teacher,29.099365,-80.79318
+2019-08-14 02:39,fraud_Howe Ltd,misc_pos,15.98,Ana,Mccormick,F,4503 Patricia Route,Meridian,ID,83646,43.6498,-116.4306,84106,Intelligence analyst,43.980429,-115.898465
+2019-12-09 17:06,fraud_Schulist Ltd,food_dining,39.99,Christopher,Johnson,M,28711 Kristine Junction Suite 309,Greenville,OH,45331,40.0987,-84.6342,22930,Media planner,40.038751,-83.789501
+2019-04-15 23:31,"fraud_Altenwerth, Cartwright and Koss",shopping_net,927.78,Michael,Rivera,M,731 Watson Spring,Granbury,TX,76048,32.425,-97.7742,47119,"Editor, film/video",31.688611,-98.765553
+2019-05-15 21:36,fraud_Lemke-Gutmann,shopping_net,2.85,William,Fitzgerald,M,715 Courtney Pike Suite 932,Keller,TX,76248,32.9276,-97.2489,95035,Probation officer,33.610964,-97.987633
+2019-07-27 11:57,"fraud_Greenholt, Jacobi and Gleason",gas_transport,46.23,Kathy,Hughes,F,02110 Lucas Freeway Suite 517,Battle Creek,IA,51006,42.3327,-95.6045,1075,"Teacher, early years/pre",42.951362,-95.355532
+2019-12-12 10:38,fraud_Bins-Rice,gas_transport,47.24,Monique,Martin,F,68276 Matthew Springs,Ratcliff,TX,75858,31.3833,-95.0619,43,"Engineer, production",31.613085,-94.226783
+2019-10-31 03:14,fraud_Huel Ltd,misc_net,72.79,Stephanie,Gill,F,43039 Riley Greens Suite 393,Orient,WA,99160,48.8878,-118.2105,149,Special educational needs teacher,49.076185,-118.603134
+2019-07-03 18:21,fraud_Christiansen-Gusikowski,misc_pos,68.21,Angela,Ross,F,0107 Clements Point,American Fork,UT,84003,40.3928,-111.7941,42384,Futures trader,41.073279,-112.629529
+2019-09-30 23:37,"fraud_Cole, Hills and Jewess",home,78.73,Christopher,Matthews,M,433 John Heights Apt. 849,Etlan,VA,22719,38.5095,-78.2638,395,Senior tax professional/tax inspector,37.52986,-79.123406
+2019-12-26 06:40,fraud_Wolf Inc,grocery_pos,257.22,Vanessa,Anderson,F,21178 Brittney Locks,Prosperity,SC,29127,34.1832,-81.5324,8333,Archaeologist,34.305761,-80.747751
+2019-01-14 08:54,fraud_Effertz LLC,entertainment,154.18,Michael,Rodriguez,M,172 Paula Inlet Apt. 650,Cross Plains,TX,76443,32.1482,-99.1872,1897,Chief Operating Officer,31.638614,-99.481385
+2019-09-06 02:54,"fraud_Moen, Reinger and Murphy",grocery_pos,105.1,Sarah,Foster,F,77872 Andrea Glen Apt. 543,Ford,VA,23850,37.1349,-77.7364,1051,Chief Operating Officer,36.275729,-77.558158
+2019-04-22 06:41,fraud_Stamm-Witting,shopping_net,2.72,Christine,Davis,F,736 Moss Motorway Suite 549,Humboldt,AZ,86329,34.5189,-112.2523,1179,"Civil engineer, contracting",34.069827,-111.772965
+2019-04-27 06:06,fraud_Murray-Smitham,grocery_pos,101.59,Lawrence,Frost,M,82448 Tucker Cliff,Kittery Point,ME,3905,43.0976,-70.7121,1780,Broadcast engineer,43.151195,-69.8789
+2019-03-03 19:39,fraud_Kutch-Wilderman,home,76.93,Bryan,Pugh,M,6366 French Field,Margaretville,NY,12455,42.1852,-74.6178,1988,Environmental health practitioner,42.964689,-74.625303
+2019-06-06 12:51,fraud_Upton PLC,entertainment,64.88,Margaret,Williams,F,165 Jerry Meadows Suite 460,Surrency,GA,31563,31.6489,-82.1982,1324,"Engineer, technical sales",30.768159,-82.556774
+2019-03-03 06:11,fraud_Kris-Padberg,shopping_pos,1257.68,Dylan,Garcia,M,923 Jordan Road,Afton,MN,55001,44.8696,-92.8234,2916,Barrister's clerk,43.902959,-92.306222
+2019-08-23 22:27,fraud_Brown Inc,kids_pets,11.31,Donna,Moreno,F,32301 Albert River Suite 364,Ronceverte,WV,24970,37.7418,-80.4626,4575,Statistician,37.57745,-79.599894
+2019-02-09 23:27,fraud_Conroy-Emard,food_dining,12.37,Adam,Santos,M,725 Jo Trace Apt. 102,Glendale,CA,91206,34.1556,-118.2322,172817,Advertising account planner,33.844683,-118.187257
+2020-02-07 18:10,fraud_Pollich LLC,home,8.68,April,Johnson,F,9727 Deleon Mountain,Creedmoor,NC,27522,36.1124,-78.6476,12335,Chief Strategy Officer,36.301981,-79.20842
+2019-02-23 02:45,"fraud_Langosh, Wintheiser and Hyatt",food_dining,12.5,Casey,Howell,F,374 Christopher Ramp Suite 855,Blackville,SC,29817,33.3645,-81.2718,4913,Technical brewer,33.225277,-81.798837
+2019-04-26 13:06,"fraud_Koss, Hansen and Lueilwitz",home,40.02,Jacqueline,Allen,F,166 Lisa Fords,Greenwood,IN,46143,39.596,-86.1309,78968,Financial adviser,38.758173,-85.922618
+2019-08-24 20:53,fraud_Wuckert-Goldner,home,57.58,John,Mccormick,M,79414 Clark Lakes Suite 966,Warren,MI,48088,42.5164,-82.9832,134056,"Producer, radio",43.014638,-83.473853
+2019-04-01 21:55,fraud_Streich Ltd,home,55.38,Jennifer,Bishop,F,589 Matthew Brooks,Houston,TX,77026,29.7972,-95.3288,2906700,Animator,29.423706,-95.441977
+2019-05-11 14:59,fraud_Ratke and Sons,health_fitness,73.08,Jeremy,Roberson,M,25887 Martin Inlet,Graniteville,VT,5654,44.1554,-72.4847,970,Agricultural consultant,43.646228,-72.711496
+2020-01-15 12:21,fraud_Mayert Group,shopping_pos,105.18,Renee,Parrish,F,174 Jennifer Meadow Apt. 467,Mountain Park,OK,73559,34.7032,-98.9591,540,Research scientist (life sciences),35.586085,-98.726601
+2019-04-26 14:10,fraud_Padberg-Rogahn,entertainment,3.52,Carol,Dillon,F,27479 Reeves Dale,Whaleyville,MD,21872,38.4121,-75.2811,718,Regulatory affairs officer,37.437953,-74.993595
+2019-08-18 21:30,fraud_Johns Inc,entertainment,34.05,Martin,Ford,M,56812 Francis Courts,Corriganville,MD,21524,39.6967,-78.8031,626,Energy engineer,39.783993,-78.590981
+2019-05-15 23:55,"fraud_Gutmann, McLaughlin and Wiza",home,69.67,Anthony,Roberts,M,95488 Cabrera Well,Maria Stein,OH,45860,40.4062,-84.5076,2274,"Designer, television/film set",40.050179,-84.548773
+2019-02-04 21:19,fraud_Thiel PLC,misc_pos,9.77,Samuel,Johnston,M,16285 Jessica Lights,Birmingham,AL,35229,33.4629,-86.7904,493806,Musician,32.7174,-87.083535
+2019-11-15 14:04,"fraud_Cole, Hills and Jewess",home,12.7,Pamela,Lewis,F,653 Jessica Extension Apt. 668,Clifton,SC,29324,34.9906,-81.8327,167,Museum/gallery conservator,35.683671,-81.702453
+2019-11-30 13:37,fraud_Will Ltd,food_dining,14.66,James,Stephens,M,1166 Castillo Mountains,Ruckersville,VA,22968,38.2586,-78.4074,9815,"Designer, ceramics/pottery",39.028865,-78.786067
+2019-12-23 18:25,fraud_Bednar PLC,kids_pets,158.61,Charles,Moreno,M,838 Franklin Prairie Apt. 902,Key West,FL,33040,24.6557,-81.3824,32891,Town planner,23.860791,-81.720295
+2019-12-01 15:33,fraud_Johns Inc,entertainment,77.92,Jason,Murphy,M,542 Steve Curve Suite 011,Collettsville,NC,28611,35.9946,-81.7266,885,Soil scientist,36.594009,-81.472903
+2019-04-01 04:27,"fraud_Eichmann, Bogan and Rodriguez",gas_transport,32.73,Patricia,Mendoza,F,1683 Davidson Freeway,Mendon,UT,84325,41.71,-111.9817,2078,"Scientist, audiological",42.069727,-112.436984
+2020-02-09 22:25,"fraud_Walter, Hettinger and Kessler",personal_care,54.91,Robin,Smith,F,0537 Margaret Common Suite 526,Coleman,TX,76834,31.8287,-99.427,5908,Radio producer,31.290796,-98.52273
+2019-08-31 13:04,"fraud_Feil, Hilpert and Koss",food_dining,62.43,Kevin,Elliott,M,1852 Vincent Isle Suite 328,Newark Valley,NY,13811,42.2281,-76.1625,4354,Further education lecturer,41.597734,-76.610255
+2019-12-15 07:33,fraud_Marks Inc,gas_transport,50.15,Gina,Grimes,F,444 Robert Mews,Clarks Mills,PA,16114,41.3851,-80.1752,606,Energy manager,42.192508,-80.180619
+2019-03-31 16:18,fraud_Reilly LLC,home,4.09,Joanna,Hudson,F,2924 Bobby Trafficway,Sebring,FL,33872,27.4703,-81.4872,50835,Environmental consultant,26.627156,-81.368322
+2020-02-07 15:49,fraud_Rolfson-Kunde,personal_care,40.65,Willie,Jordan,M,529 West Key,Spearsville,LA,71277,32.955,-92.587,1758,"Psychologist, forensic",32.591599,-93.451294
+2019-05-09 05:15,fraud_Mraz-Herzog,gas_transport,47.7,Amanda,Spencer,F,6682 Green Forks,Ogdensburg,NJ,7439,41.0767,-74.5982,2456,Senior tax professional/tax inspector,40.676424,-74.206256
+2019-05-11 15:59,fraud_Waters-Cruickshank,health_fitness,82.02,Janet,Carpenter,F,9870 Collins Flat,Laramie,WY,82072,41.4247,-105.4781,35371,"Pilot, airline",41.203901,-105.283516
+2019-12-30 14:22,fraud_Stoltenberg-Beatty,shopping_pos,350.59,Allison,Allen,F,40624 Rebecca Spurs,De Witt,AR,72042,34.2853,-91.3336,5161,Electrical engineer,34.758818,-90.681619
+2020-02-08 12:45,fraud_Deckow-Dare,food_dining,1.38,Charles,Moreno,M,838 Franklin Prairie Apt. 902,Key West,FL,33040,24.6557,-81.3824,32891,Town planner,24.285158,-80.891054
+2019-08-02 18:39,"fraud_Romaguera, Wehner and Tromp",kids_pets,22.04,Alan,Howard,M,04139 Johnson Prairie Suite 401,Detroit,MI,48206,42.3749,-83.1087,673342,Trading standards officer,42.717312,-83.806218
+2019-06-14 15:50,fraud_Dibbert-Green,entertainment,49.8,Monica,West,F,22084 Smith Roads Suite 776,Hurley,SD,57036,43.2893,-97.1904,811,Neurosurgeon,43.757667,-96.9901
+2019-03-11 22:01,fraud_Reilly and Sons,health_fitness,180.5,Erin,Chavez,F,3379 Williams Common,Littleton,CO,80120,39.5994,-105.0044,320420,Water engineer,40.166301,-104.784441
+2019-04-17 00:48,"fraud_Kohler, Lindgren and Koelpin",grocery_net,120.92,Kristina,Stewart,F,47029 Jimmy Tunnel Apt. 106,Newhall,CA,91321,34.3795,-118.523,34882,Health physicist,33.781601,-118.245424
+2019-10-11 02:13,"fraud_Streich, Dietrich and Barton",shopping_net,88.29,John,Miller,M,153 Mccullough Springs Apt. 857,Lamberton,MN,56152,44.2378,-95.2739,1507,Land/geomatics surveyor,44.909784,-95.508521
+2019-05-22 19:11,fraud_Hickle Group,shopping_pos,29.82,Julia,Bell,F,576 House Crossroad,West Sayville,NY,11796,40.732,-73.1,4056,Film/video editor,41.373121,-72.318918
+2019-07-20 04:03,"fraud_Towne, Greenholt and Koepp",shopping_net,4.69,Zachary,Allen,M,69252 Oconnor Alley Apt. 153,Ollie,IA,52576,41.2001,-92.1354,568,Commercial horticulturist,40.302603,-91.609578
+2019-01-19 18:11,fraud_Satterfield-Lowe,travel,7.11,Christie,Williamson,F,519 Jerry Views,Avoca,IA,51521,41.4768,-95.3509,2036,Engineering geologist,40.651871,-94.871509
+2019-06-24 10:26,fraud_Gleason-Macejkovic,shopping_net,7.1,Daniel,Owens,M,88794 Mandy Lodge Apt. 874,Howells,NE,68641,41.6964,-96.9858,1063,Research scientist (maths),41.138185,-96.305078
+2019-02-01 22:15,fraud_Parker-Kunde,personal_care,5.14,Jessica,Potter,F,7600 Stephen Course Suite 031,Red River,NM,87558,36.6659,-105.4694,606,"Surveyor, land/geomatics",37.469985,-104.485258
+2020-01-28 15:10,fraud_Weber and Sons,food_dining,42.5,Margaret,Gibson,F,382 Williams Stream Suite 197,Scotland,MD,20687,38.0828,-76.3477,313,Insurance underwriter,38.028974,-76.731685
+2019-06-04 16:02,fraud_Abbott-Steuber,personal_care,1.22,Jeffrey,Smith,M,135 Joseph Mountains,Sula,MT,59871,45.8433,-113.8748,218,"Therapist, horticultural",46.236802,-113.072788
+2019-09-01 09:20,"fraud_Moore, Dibbert and Koepp",misc_net,94.73,Matthew,Russell,M,168 Michael Coves Suite 343,June Lake,CA,93529,37.7773,-119.0825,633,Health service manager,37.857901,-118.095617
+2019-04-29 18:19,fraud_Barrows PLC,shopping_pos,95.32,Julia,Bell,F,576 House Crossroad,West Sayville,NY,11796,40.732,-73.1,4056,Film/video editor,41.345189,-74.080181
+2019-04-22 17:47,fraud_Gottlieb Group,kids_pets,29.57,Susan,Hernandez,F,2193 Osborne Run Apt. 789,Moro,IL,62067,38.9318,-89.9618,2401,"Buyer, industrial",39.18298,-90.953324
+2019-07-13 05:57,"fraud_Cormier, Stracke and Thiel",entertainment,1.9,Ronald,Carson,M,870 Rocha Drive,Harrington Park,NJ,7640,40.9918,-73.98,4664,"Radiographer, diagnostic",41.407661,-74.241642
+2019-09-13 22:51,fraud_Auer-West,shopping_net,14.03,Kristen,Hanson,F,26544 Andrea Glen,Goodrich,MI,48438,42.9147,-83.4845,6951,Learning disability nurse,43.687687,-82.663994
+2019-03-31 16:06,fraud_Crona and Sons,kids_pets,192.41,Teresa,Blankenship,F,6638 Lucero Mill Suite 952,Karnack,TX,75661,32.6205,-94.2,2807,Chiropodist,33.566149,-93.876488
+2019-09-26 03:49,"fraud_Wiza, Schaden and Stark",misc_pos,26.7,Tammy,Davis,F,77663 Colleen Freeway,Moundsville,WV,26041,39.9148,-80.731,16183,Physiotherapist,39.499538,-80.097624
+2019-06-03 08:30,fraud_Corwin-Gorczany,misc_net,7.75,Crystal,Gamble,F,899 Michele View Suite 960,Philadelphia,PA,19149,40.0369,-75.0664,1526206,Structural engineer,40.493898,-74.320301
+2020-03-05 16:28,fraud_Balistreri-Nader,misc_pos,1.72,Robert,Hall,M,371 Anthony Trail Suite 354,Glade Spring,VA,24340,36.7779,-81.7676,5657,Clinical psychologist,37.216155,-81.28512
+2019-07-08 13:13,fraud_Conroy Ltd,shopping_pos,20.5,Erin,Chavez,F,3379 Williams Common,Littleton,CO,80120,39.5994,-105.0044,320420,Water engineer,40.306938,-104.719754
+2019-06-02 08:41,fraud_Kutch and Sons,grocery_pos,93.1,Matthew,Young,M,8840 Miller Port Suite 645,Indian Wells,CA,92210,33.7163,-116.3381,4677,Learning mentor,33.992836,-116.709434
+2020-01-05 09:12,"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos,8.51,Julie,Johnson,F,9331 Robert Passage Suite 327,Hudson,KS,67545,38.1485,-98.6408,215,Probation officer,37.90009,-99.555505
+2019-09-11 17:25,fraud_Zulauf LLC,personal_care,59.59,Melissa,Krause,F,67632 Martin Gateway,Fordoche,LA,70732,30.6576,-91.6264,1178,Community education officer,30.665019,-91.606684
+2019-10-20 01:56,"fraud_Christiansen, Goyette and Schamberger",gas_transport,73.59,Danielle,Yu,F,5395 Colon Burgs Suite 037,Thrall,TX,76578,30.592,-97.2893,1766,Press sub,30.658288,-97.289176
+2020-02-13 23:15,fraud_Marvin-Lind,personal_care,1.34,Janet,Turner,F,0925 Lang Extensions,Shields,ND,58569,46.1838,-101.2589,77,Film/video editor,46.728759,-102.256905
+2019-04-22 16:32,fraud_Hilpert-Conroy,kids_pets,32.56,Melody,Thompson,F,0362 Anderson Wall,Mound City,MO,64470,40.1362,-95.2138,1631,Architect,39.756847,-95.10701
+2019-03-10 20:54,"fraud_Bahringer, Bergnaum and Quitzon",home,37.08,Larry,House,M,911 Sabrina Trafficway,Cochranton,PA,16314,41.5205,-80.0573,5507,Retail merchandiser,40.629329,-80.260044
+2020-02-28 22:39,fraud_Ernser-Feest,home,144.1,James,Bishop,M,7055 Fernandez Estates Apt. 676,Cecilton,MD,21913,39.4015,-75.8654,663,Podiatrist,39.33763,-75.148155
+2019-01-21 17:07,fraud_Abbott-Rogahn,entertainment,78.47,Andrew,Patterson,M,06959 Stephen Branch Suite 246,Thida,AR,72165,35.5762,-91.4539,111,Careers information officer,35.72725,-92.128895
+2019-01-17 07:40,fraud_Lynch Ltd,shopping_pos,19.93,Teresa,Blankenship,F,6638 Lucero Mill Suite 952,Karnack,TX,75661,32.6205,-94.2,2807,Chiropodist,32.367491,-94.381968
+2019-03-22 18:45,fraud_Homenick LLC,personal_care,11.83,Jodi,Foster,F,551 Zachary Freeway,Bailey,NC,27807,35.8072,-78.0892,6629,Call centre manager,36.483037,-77.549612
+2019-05-05 00:08,fraud_Mraz-Herzog,gas_transport,62.04,Judy,Hogan,F,4970 Michelle Burgs,Brooklyn,NY,11217,40.6816,-73.9798,2504700,Medical sales representative,40.911255,-73.203927
+2019-01-22 16:18,"fraud_Larkin, Stracke and Greenfelder",entertainment,38.02,Andrea,Cruz,F,26572 Hodge Villages Suite 512,Mifflin,PA,17058,40.5553,-77.4001,1909,Mining engineer,41.028142,-77.002815
+2019-04-01 08:40,fraud_Kutch LLC,gas_transport,70.13,Carrie,Washington,F,6114 Adams Harbor Suite 096,Kingsford Heights,IN,46346,41.4802,-86.6919,1423,"Psychologist, forensic",41.808978,-87.275173
+2019-08-17 09:18,fraud_Roberts-Beahan,misc_pos,27.17,Debbie,Hughes,F,0182 Owens Burgs Suite 480,Diamond,OH,44412,41.0935,-81.0425,2644,"Engineer, biomedical",40.658192,-80.896375
+2019-01-07 20:32,fraud_Abshire PLC,entertainment,43.52,James,Baldwin,M,3603 Mitchell Court,Winfield,WV,25213,38.5072,-81.89,5512,Exhibition designer,38.153552,-82.716146
+2019-07-14 03:07,fraud_Jaskolski-Dibbert,grocery_net,52.9,Thomas,Jenkins,M,93914 Gregory Via,Oakland,CA,94619,37.7878,-122.1884,381459,Barista,38.402219,-122.261484
+2020-03-06 22:50,fraud_Bernhard-Lesch,food_dining,4.11,Mackenzie,Smith,F,7178 Willis Drive,Hooper,NE,68031,41.6414,-96.5232,1745,"Engineer, automotive",42.048126,-97.187863
+2019-09-01 20:31,fraud_Kozey-Boehm,shopping_net,63.48,Jodi,Rodriguez,F,5796 Lee Coves Apt. 286,Walnut Ridge,AR,72476,36.0244,-90.9288,7155,"Engineer, control and instrumentation",36.685583,-91.575414
+2020-02-03 13:16,fraud_Kessler Inc,travel,527.95,Wayne,Marsh,M,172 Leonard Island,Dumont,CO,80436,39.7532,-105.6356,565,Mental health nurse,39.691952,-105.066036
+2019-08-26 20:18,fraud_Ruecker-Mayert,kids_pets,5.77,Sabrina,Nolan,F,312 Eric Expressway Apt. 014,Phenix City,AL,36869,32.4204,-85.0796,59744,Chemical engineer,31.78287,-84.438327
+2019-06-10 18:01,fraud_Wisozk and Sons,misc_pos,2.07,Marissa,Powell,F,474 Allen Haven,North Loup,NE,68859,41.4972,-98.7858,509,"Nurse, children's",41.594011,-98.071342
+2020-01-20 01:54,"fraud_Kuhic, Bins and Pfeffer",shopping_net,14.5,Melinda,Gutierrez,F,1497 West Gateway,Eureka,IL,61530,40.7152,-89.2706,6713,Archivist,39.973907,-89.646118
+2019-11-24 07:14,"fraud_Roob, Conn and Tremblay",shopping_pos,1.4,Alicia,Morales,F,4456 Dunn Roads,Meredith,CO,81642,39.3199,-106.6596,61,Public relations account executive,38.981482,-107.058334
+2019-02-06 16:28,fraud_Kirlin and Sons,personal_care,28.57,Allison,Allen,F,40624 Rebecca Spurs,De Witt,AR,72042,34.2853,-91.3336,5161,Electrical engineer,34.59837,-90.670604
+2019-09-18 18:21,fraud_Zboncak Ltd,food_dining,8.76,Kathy,Hughes,F,02110 Lucas Freeway Suite 517,Battle Creek,IA,51006,42.3327,-95.6045,1075,"Teacher, early years/pre",42.832907,-95.054208
+2019-01-06 22:49,fraud_Kuhn Group,food_dining,8.46,Melvin,Wright,M,210 Dean Causeway Suite 130,Alton,IA,51003,42.9782,-96.0173,1700,"Engineer, land",43.151941,-95.654721
+2019-06-02 06:37,"fraud_Osinski, Ledner and Leuschke",grocery_pos,119.65,Jennifer,Garcia,F,28777 Stewart Plains Apt. 495,Putnam,IL,61560,41.1949,-89.4409,754,"Presenter, broadcasting",41.06323,-88.820442
+2019-10-30 06:01,fraud_Boyer PLC,misc_pos,65.89,Mary,Mcintyre,F,77921 Costa Villages,Eugene,OR,97403,44.0385,-123.0614,191096,"Scientist, physiological",43.20637,-124.060836
+2019-08-18 10:07,fraud_McGlynn-Heathcote,misc_net,265.12,Mackenzie,Salazar,F,982 Melissa Lock,Bagley,WI,53801,42.9207,-91.0685,878,Risk analyst,42.663395,-90.471108
+2019-11-30 08:06,fraud_Emard Inc,gas_transport,56.98,Kenneth,Sanchez,M,0110 Ashley Forest,Tekoa,WA,99033,47.2271,-117.0819,895,Clothing/textile technologist,47.427576,-116.47493
+2019-05-11 15:51,fraud_Wilkinson Ltd,entertainment,85.79,Lisa,Lowe,F,574 David Locks Suite 207,Cottekill,NY,12419,41.8467,-74.1038,722,Comptroller,42.256757,-74.300469
+2019-03-11 16:51,fraud_Cormier LLC,shopping_net,815.32,Eddie,Mendez,M,1831 Faith View Suite 653,Clarinda,IA,51632,40.7491,-95.038,7297,IT trainer,40.918477,-94.517128
+2019-12-05 08:12,"fraud_Connelly, Reichert and Fritsch",gas_transport,71.43,Sara,Ramirez,F,23843 Scott Island,Birmingham,IA,52535,40.8626,-91.9534,888,Camera operator,41.349021,-92.639362
+2019-05-15 23:29,fraud_Carroll PLC,health_fitness,75.56,Melissa,Mcclure,F,2027 Snyder Track,Manville,WY,82227,42.73,-104.7024,241,Educational psychologist,42.799423,-104.972125
+2019-02-28 04:26,fraud_Heller-Abshire,grocery_net,43.39,Brooke,Smith,F,63542 Luna Brook Apt. 012,Notrees,TX,79759,31.8599,-102.7413,23,Cytogeneticist,31.746174,-102.9249
+2020-02-23 14:48,fraud_Jakubowski Inc,home,32.77,Laura,Casey,F,6114 Moran Way,Steuben,ME,4680,44.4971,-67.9503,1131,Make,44.202565,-68.840379
+2020-02-05 22:11,fraud_Botsford PLC,home,9.78,Martin,Ford,M,56812 Francis Courts,Corriganville,MD,21524,39.6967,-78.8031,626,Energy engineer,39.734275,-78.281142
+2019-10-30 15:08,fraud_Pacocha-Weissnat,kids_pets,86.38,Audrey,Hickman,F,3325 Gregory Square,Mount Clemens,MI,48043,42.5978,-82.8823,16305,"Psychologist, sport and exercise",42.270424,-82.752383
+2020-02-10 21:01,fraud_Cruickshank-Mills,entertainment,46.31,Tara,Richards,F,4879 Cristina Station,Keisterville,PA,15449,39.9636,-79.7853,184,Systems developer,40.319507,-79.877056
+2019-06-24 15:07,fraud_Lind-Buckridge,entertainment,25.77,Bill,Lane,M,4725 Hurst Curve Apt. 634,Holliday,TX,76366,33.6751,-98.6576,2317,Chief Technology Officer,33.345734,-97.857675
+2019-04-01 16:57,"fraud_Armstrong, Walter and Gottlieb",food_dining,117.63,Phillip,Robertson,M,85344 Smith Gateway Apt. 280,Harrodsburg,IN,47434,39.013,-86.5457,76,Social researcher,38.963881,-86.11548
+2019-06-04 04:05,fraud_Ankunding LLC,shopping_net,106.29,Francisco,Hernandez,M,980 Smith Gardens,Gainesville,TX,76240,33.6547,-97.1583,26120,"Engineer, manufacturing",34.435085,-97.905387
+2019-03-08 19:12,fraud_Kuphal-Toy,food_dining,3.21,Lori,Ramirez,F,4293 Ramirez Squares,Ranier,MN,56668,48.6031,-93.2977,136,Ceramics designer,47.66326,-92.463358
+2019-09-27 10:30,fraud_Padberg-Welch,grocery_pos,113.02,Larry,Williams,M,6274 David Oval Suite 725,Scarborough,ME,4074,43.5835,-70.3457,18760,Make,44.070081,-70.603794
+2019-11-11 17:35,fraud_Kutch-Wilderman,home,96.06,Joanne,Williams,F,3638 Marsh Union,Altonah,UT,84002,40.3207,-110.436,302,"Sales professional, IT",39.626878,-111.276201
+2019-05-27 15:42,"fraud_Armstrong, Walter and Gottlieb",food_dining,42.59,Nathan,Mendoza,M,767 Adam Mill Apt. 115,Espanola,NM,87533,35.9866,-106.0654,18408,Historic buildings inspector/conservation officer,36.927083,-105.451279
+2019-04-28 00:47,fraud_Murray Ltd,grocery_net,74.42,Frank,Key,M,5537 Jessica Plaza,Pewee Valley,KY,40056,38.3039,-85.4834,3263,Stage manager,37.63639,-84.954087
+2019-10-13 10:17,fraud_Deckow-O'Conner,grocery_pos,121.19,Matthew,Russell,M,168 Michael Coves Suite 343,June Lake,CA,93529,37.7773,-119.0825,633,Health service manager,37.810182,-118.752814
+2019-11-11 16:04,fraud_Labadie LLC,personal_care,84.47,Justin,Aguilar,M,184 Miller Manors,Wittenberg,WI,54499,44.8232,-89.1665,3223,Senior tax professional/tax inspector,45.770336,-89.914064

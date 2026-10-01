@@ -95,15 +95,57 @@ services:
     environment:
       KAFKA_BROKERS: "kafka:9092"  # Используем внутренний адрес Kafka
       KAFKA_TOPIC: "transactions"
+      POSTGRES_DSN: "postgresql://app:app@postgres:5432/fraud"
     depends_on:
       kafka:
         condition: service_healthy
       kafka-setup:
         condition: service_completed_successfully
+      postgres:
+        condition: service_healthy
     ports:
       - "8501:8501"
+
+  # PostgreSQL: витрина со скорами (таблица scores создаётся db/init.sql)
+  postgres:
+    image: postgres:16-alpine
+    networks:
+      - ml-scorer
+    environment:
+      POSTGRES_USER: app
+      POSTGRES_PASSWORD: app
+      POSTGRES_DB: fraud
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U app -d fraud"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # Читает топик scores и складывает результаты в Postgres
+  score_writer:
+    build: ./score_writer
+    networks:
+      - ml-scorer
+    environment:
+      KAFKA_BOOTSTRAP_SERVERS: "kafka:9092"
+      KAFKA_SCORING_TOPIC: "scores"
+      POSTGRES_DSN: "postgresql://app:app@postgres:5432/fraud"
+    depends_on:
+      kafka:
+        condition: service_healthy
+      kafka-setup:
+        condition: service_completed_successfully
+      postgres:
+        condition: service_healthy
+    restart: on-failure
 
 networks:
   ml-scorer:
     name: ml-scorer
     driver: bridge
+
+volumes:
+  pgdata:
