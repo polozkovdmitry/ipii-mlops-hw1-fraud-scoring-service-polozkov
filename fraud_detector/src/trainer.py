@@ -25,7 +25,9 @@ from preprocessing import CATEGORICAL_COLS, INPUT_COLS, NUMERIC_COLS, make_featu
 
 logger = logging.getLogger(__name__)
 
+# Full train.csv if it is there, otherwise the small sample committed to the repo (misc/train_sample.csv.gz)
 TRAIN_DATA_PATH = os.getenv('TRAIN_DATA_PATH', '/data/train.csv')
+TRAIN_SAMPLE_PATH = os.getenv('TRAIN_SAMPLE_PATH', '/misc/train_sample.csv.gz')
 TARGET_COL = 'target'
 TEST_SIZE = 0.2
 RANDOM_STATE = 42
@@ -49,7 +51,7 @@ def build_pipeline(params):
 
 def train(params, data_path=None):
     """Fit on a train split of the data, score on the holdout. Returns {'pipeline', 'params', 'metrics'}."""
-    data_path = data_path or TRAIN_DATA_PATH
+    data_path = data_path or (TRAIN_DATA_PATH if os.path.exists(TRAIN_DATA_PATH) else TRAIN_SAMPLE_PATH)
     started = time.time()
     df = pd.read_csv(data_path, usecols=INPUT_COLS + [TARGET_COL])
     X, y = df[INPUT_COLS], df[TARGET_COL]
@@ -71,6 +73,7 @@ def train(params, data_path=None):
         'n_train': int(len(X_train)),
         'n_test': int(len(X_test)),
         'fraud_rate': float(y.mean()),
+        'data_source': os.path.basename(data_path),
         'fit_seconds': round(time.time() - started, 1),
     }
     logger.info('Trained logreg %s: %s', params, metrics)

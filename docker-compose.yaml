@@ -83,8 +83,10 @@ services:
       FRAUD_THRESHOLD: "0.5"  # threshold of the baseline model (score above which fraud_flag = 1); changeable from the UI
       POSTGRES_DSN: "postgresql://app:app@postgres:5432/fraud"
       TRAIN_DATA_PATH: "/data/train.csv"
+      TRAIN_SAMPLE_PATH: "/misc/train_sample.csv.gz"
     volumes:
-      - ./data:/data:ro  # train.csv for retraining, read-only
+      - ./data:/data:ro  # full train.csv for retraining, read-only (optional)
+      - ./misc:/misc:ro  # small train sample from the repo, used if there is no data/train.csv
       - trained_models:/app/models/trained  # models retrained from the UI survive restarts
     ports:
       - "8000:8000"  # API (retrain, threshold); docs at http://localhost:8000/docs

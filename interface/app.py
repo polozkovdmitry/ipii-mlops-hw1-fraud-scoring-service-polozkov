@@ -273,8 +273,9 @@ if state:
         f"max_iter={active['params']['max_iter']}"
     )
     show_metrics(active["metrics"])
-    st.caption("Метрики посчитаны на отложенной выборке (20% train.csv). Доля фрода в train.csv: "
-               f"{active['metrics']['fraud_rate']:.2%}.")
+    st.caption(f"Метрики посчитаны на отложенной выборке (20% от {active['metrics'].get('data_source', 'train.csv')}, "
+               f"{active['metrics']['n_train'] + active['metrics']['n_test']} строк). "
+               f"Доля фрода: {active['metrics']['fraud_rate']:.2%}.")
 
     # Порог
     st.subheader("Порог фрода")

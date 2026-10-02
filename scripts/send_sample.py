@@ -2,7 +2,7 @@
 
 Usage (from the host, Kafka is exposed on localhost:9095):
     pip install kafka-python pandas
-    python scripts/send_sample.py misc/test_20.csv [--bootstrap localhost:9095] [--topic transactions]
+    python scripts/send_sample.py misc/test_382.csv [--bootstrap localhost:9095] [--topic transactions]
 """
 import argparse
 import json
