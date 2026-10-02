@@ -1,3 +1,4 @@
+"""Preprocessing for the CatBoost model (kept for reference, not used by the service)."""
 import logging
 import os
 import pickle

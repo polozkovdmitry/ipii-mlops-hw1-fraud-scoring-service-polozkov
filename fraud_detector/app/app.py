@@ -2,14 +2,17 @@ import json
 import logging
 import os
 import sys
+import threading
 import uuid
 
 import pandas as pd
+import uvicorn
 from confluent_kafka import Consumer, Producer
 
 sys.path.append(os.path.abspath('./src'))
-from preprocessing import load_artifacts, run_preproc
-from scorer import make_pred
+sys.path.append(os.path.abspath('./app'))
+import scorer
+from api import app as api_app
 
 logging.basicConfig(
     level=logging.INFO,
@@ -25,6 +28,7 @@ KAFKA_BOOTSTRAP_SERVERS = os.getenv("KAFKA_BOOTSTRAP_SERVERS", "kafka:9092")
 TRANSACTIONS_TOPIC = os.getenv("KAFKA_TRANSACTIONS_TOPIC", "transactions")
 SCORING_TOPIC = os.getenv("KAFKA_SCORING_TOPIC", "scores")
 BATCH_SIZE = int(os.getenv("BATCH_SIZE", "100"))
+API_PORT = int(os.getenv("API_PORT", "8000"))
 
 
 def parse_message(raw):
@@ -48,13 +52,12 @@ class ProcessingService:
         })
         self.consumer.subscribe([TRANSACTIONS_TOPIC])
         self.producer = Producer({'bootstrap.servers': KAFKA_BOOTSTRAP_SERVERS})
-        self.artifacts = load_artifacts()
 
     def score(self, items):
         """items: list of (transaction_id, row dict) -> list of result dicts."""
         ids = [i for i, _ in items]
         df = pd.DataFrame([row for _, row in items])
-        result = make_pred(run_preproc(self.artifacts, df), "kafka_stream")
+        result = scorer.make_pred(df, "kafka_stream")
         result.insert(0, 'transaction_id', ids)
         return result.to_dict(orient='records')
 
@@ -97,6 +100,11 @@ class ProcessingService:
 
 if __name__ == "__main__":
     logger.info('Starting Kafka ML scoring service...')
+    scorer.init()
+    # The API (retrain / model switch / threshold) runs in its own thread, the Kafka loop stays in the main one
+    threading.Thread(
+        target=uvicorn.run, args=(api_app,), kwargs={'host': '0.0.0.0', 'port': API_PORT, 'log_level': 'warning'},
+        daemon=True).start()
     service = ProcessingService()
     try:
         service.process_messages()

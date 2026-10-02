@@ -3,3 +3,8 @@ __pycache__/
 *.DS_Store
 fraud_detector/train_data/
 fraud_detector/logs/
+
+# train data is too large for git: see data/README.md
+data/*.csv
+# models trained from the UI (the committed baseline lives in fraud_detector/models/)
+fraud_detector/models/trained/

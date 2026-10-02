@@ -1,3 +1,4 @@
+"""CatBoost scoring (kept for reference, not used by the service; needs `catboost` installed)."""
 import os
 import pandas as pd
 import logging

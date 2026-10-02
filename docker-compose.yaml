@@ -80,12 +80,21 @@ services:
       KAFKA_BOOTSTRAP_SERVERS: "kafka:9092"
       KAFKA_TRANSACTIONS_TOPIC: "transactions"
       KAFKA_SCORING_TOPIC: "scores"
-      FRAUD_THRESHOLD: "0.05"  # score above which fraud_flag = 1
+      FRAUD_THRESHOLD: "0.5"  # threshold of the baseline model (score above which fraud_flag = 1); changeable from the UI
+      POSTGRES_DSN: "postgresql://app:app@postgres:5432/fraud"
+      TRAIN_DATA_PATH: "/data/train.csv"
+    volumes:
+      - ./data:/data:ro  # train.csv for retraining, read-only
+      - trained_models:/app/models/trained  # models retrained from the UI survive restarts
+    ports:
+      - "8000:8000"  # API (retrain, threshold); docs at http://localhost:8000/docs
     depends_on:
       kafka:
         condition: service_healthy
       kafka-setup:
         condition: service_completed_successfully
+      postgres:
+        condition: service_healthy
     restart: on-failure
 
   interface:
@@ -96,6 +105,7 @@ services:
       KAFKA_BROKERS: "kafka:9092"  # Используем внутренний адрес Kafka
       KAFKA_TOPIC: "transactions"
       POSTGRES_DSN: "postgresql://app:app@postgres:5432/fraud"
+      FRAUD_API_URL: "http://fraud_detector:8000"
     depends_on:
       kafka:
         condition: service_healthy
@@ -149,3 +159,4 @@ networks:
 
 volumes:
   pgdata:
+  trained_models:
